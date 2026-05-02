@@ -1,7 +1,8 @@
 {
   "published_files": [
     "module_04/m4-1-mini-system-prompt.ipynb",
-    "module_04/m4-2-mini-few-shot.ipynb"
+    "module_04/m4-2-mini-few-shot.ipynb",
+    "module_04/m4-3-mini-cot.ipynb"
   ],
   "published_modules": [
     "module_01",
