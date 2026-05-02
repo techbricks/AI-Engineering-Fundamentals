@@ -4,7 +4,8 @@
     "module_04/m4-2-mini-few-shot.ipynb",
     "module_04/m4-3-mini-cot.ipynb",
     "module_04/m4-4-mini-structured.ipynb",
-    "module_04/m4-5-mini-chaining.ipynb"
+    "module_04/m4-5-mini-chaining.ipynb",
+    "module_04/m4-6-mini-react-prompt.ipynb"
   ],
   "published_modules": [
     "module_01",
