@@ -10,7 +10,8 @@
     "module_04/m4-8-lab-data-extractor.ipynb",
     "module_04/m4-9-lab-reasoning-engine.ipynb",
     "module_04/m4-10-lab-secure-chatbot.ipynb",
-    "module_05/m5-1-mini-embeddings.ipynb"
+    "module_05/m5-1-mini-embeddings.ipynb",
+    "module_05/m5-2-mini-vector-db.ipynb"
   ],
   "published_modules": [
     "module_01",
