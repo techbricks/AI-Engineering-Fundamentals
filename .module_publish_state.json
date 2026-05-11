@@ -12,7 +12,8 @@
     "module_04/m4-10-lab-secure-chatbot.ipynb",
     "module_05/m5-1-mini-embeddings.ipynb",
     "module_05/m5-2-mini-vector-db.ipynb",
-    "module_05/m5-3-mini-chunking.ipynb"
+    "module_05/m5-3-mini-chunking.ipynb",
+    "module_05/m5-4-mini-metadata.ipynb"
   ],
   "published_modules": [
     "module_01",
