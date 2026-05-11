@@ -14,7 +14,8 @@
     "module_05/m5-2-mini-vector-db.ipynb",
     "module_05/m5-3-mini-chunking.ipynb",
     "module_05/m5-4-mini-metadata.ipynb",
-    "module_06/m6-1-lab-basic-rag.ipynb"
+    "module_06/m6-1-lab-basic-rag.ipynb",
+    "module_06/m6-2-proj-chat-docs.ipynb"
   ],
   "published_modules": [
     "module_01",
