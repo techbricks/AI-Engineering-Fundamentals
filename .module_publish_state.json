@@ -16,7 +16,8 @@
     "module_05/m5-4-mini-metadata.ipynb",
     "module_06/m6-1-lab-basic-rag.ipynb",
     "module_06/m6-2-proj-chat-docs.ipynb",
-    "module_07/m7-1-mini-function-call.ipynb"
+    "module_07/m7-1-mini-function-call.ipynb",
+    "module_07/m7-2-mini-calculator.ipynb"
   ],
   "published_modules": [
     "module_01",
