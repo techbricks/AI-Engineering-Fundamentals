@@ -1,0 +1,23 @@
+{
+  "source_file": "contract_001_employment",
+  "document_type": "contract",
+  "extracted_at": "2026-04-03T20:20:49.949120",
+  "data": {
+    "contract_title": "Senior Software Engineer Employment Agreement",
+    "contract_type": "Employment",
+    "effective_date": "2024-04-01",
+    "expiration_date": null,
+    "parties": [
+      {
+        "name": "TechCorp Solutions Inc.",
+        "role": "Employer"
+      },
+      {
+        "name": "Alexander Chen",
+        "role": "Employee"
+      }
+    ],
+    "total_value": 150000.0,
+    "governing_law": "State of California"
+  }
+}
