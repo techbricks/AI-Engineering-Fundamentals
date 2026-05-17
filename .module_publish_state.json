@@ -21,7 +21,10 @@
     "module_07/m7-3-mini-agent-loop.ipynb",
     "module_07/m7-4-mini-react.ipynb",
     "module_07/m7-5-mini-memory.ipynb",
-    "module_07/m7-6-lab-tool-agent.ipynb"
+    "module_07/m7-6-lab-tool-agent.ipynb",
+    "module_08/__pycache__/document_schemas.cpython-312.pyc",
+    "module_08/__pycache__/extractor.cpython-312.pyc",
+    "module_08/document_schemas.py"
   ],
   "published_modules": [
     "module_01",
