@@ -1,0 +1,23 @@
+{
+  "source_file": "contract_002_service",
+  "document_type": "contract",
+  "extracted_at": "2026-04-03T20:20:49.954670",
+  "data": {
+    "contract_title": "Custom Web Application Development Services",
+    "contract_type": "Service",
+    "effective_date": "May 1, 2024",
+    "expiration_date": "December 31, 2024",
+    "parties": [
+      {
+        "name": "Acme Corporation",
+        "role": "CLIENT"
+      },
+      {
+        "name": "TechSolutions Consulting LLC",
+        "role": "CONTRACTOR"
+      }
+    ],
+    "total_value": 125000.0,
+    "governing_law": "State of California"
+  }
+}
