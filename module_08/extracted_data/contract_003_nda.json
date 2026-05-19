@@ -1,0 +1,23 @@
+{
+  "source_file": "contract_003_nda",
+  "document_type": "contract",
+  "extracted_at": "2026-04-03T20:20:49.961674",
+  "data": {
+    "contract_title": "Mutual Non-Disclosure Agreement",
+    "contract_type": "NDA",
+    "effective_date": "2024-03-01",
+    "expiration_date": "2027-03-01",
+    "parties": [
+      {
+        "name": "Innovation Labs Inc.",
+        "role": "CEO"
+      },
+      {
+        "name": "DataSolutions Corp.",
+        "role": "VP of Business Development"
+      }
+    ],
+    "total_value": null,
+    "governing_law": "State of California"
+  }
+}
