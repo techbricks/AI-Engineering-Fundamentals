@@ -1,0 +1,42 @@
+{
+  "source_file": "invoice_002_simple_receipt",
+  "document_type": "invoice",
+  "extracted_at": "2026-04-03T20:20:49.953649",
+  "data": {
+    "invoice_number": "REC-8847",
+    "invoice_date": "March 22, 2024",
+    "due_date": null,
+    "vendor_name": "CloudHost Services",
+    "customer_name": "DataFlow Analytics",
+    "line_items": [
+      {
+        "description": "Cloud Hosting (Monthly)",
+        "quantity": null,
+        "unit_price": 299.0,
+        "amount": 299.0
+      },
+      {
+        "description": "Extra Storage 500GB",
+        "quantity": null,
+        "unit_price": 45.0,
+        "amount": 45.0
+      },
+      {
+        "description": "SSL Certificate",
+        "quantity": null,
+        "unit_price": 12.0,
+        "amount": 12.0
+      },
+      {
+        "description": "Priority Support",
+        "quantity": null,
+        "unit_price": 50.0,
+        "amount": 50.0
+      }
+    ],
+    "subtotal": 406.0,
+    "tax_amount": null,
+    "total": 406.0,
+    "payment_status": null
+  }
+}
