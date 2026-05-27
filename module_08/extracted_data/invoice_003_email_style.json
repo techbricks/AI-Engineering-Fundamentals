@@ -1,0 +1,42 @@
+{
+  "source_file": "invoice_003_email_style",
+  "document_type": "invoice",
+  "extracted_at": "2026-04-03T20:20:49.967211",
+  "data": {
+    "invoice_number": "DP-2024-156",
+    "invoice_date": "2024-04-05",
+    "due_date": "2024-04-19",
+    "vendor_name": "DesignPro Studio",
+    "customer_name": "RetailMax",
+    "line_items": [
+      {
+        "description": "UX Research & Wireframing",
+        "quantity": null,
+        "unit_price": 2500.0,
+        "amount": 2500.0
+      },
+      {
+        "description": "Visual Design (12 pages)",
+        "quantity": null,
+        "unit_price": 4800.0,
+        "amount": 4800.0
+      },
+      {
+        "description": "Responsive Development",
+        "quantity": null,
+        "unit_price": 6200.0,
+        "amount": 6200.0
+      },
+      {
+        "description": "Quality Assurance Testing",
+        "quantity": null,
+        "unit_price": 1500.0,
+        "amount": 1500.0
+      }
+    ],
+    "subtotal": 15000.0,
+    "tax_amount": null,
+    "total": 15000.0,
+    "payment_status": null
+  }
+}

@@ -31,7 +31,8 @@
     "module_08/extracted_data/contract_004_lease.json",
     "module_08/extracted_data/contract_005_freelance.json",
     "module_08/extracted_data/invoice_001_corporate.json",
-    "module_08/extracted_data/invoice_002_simple_receipt.json"
+    "module_08/extracted_data/invoice_002_simple_receipt.json",
+    "module_08/extracted_data/invoice_003_email_style.json"
   ],
   "published_modules": [
     "module_01",
