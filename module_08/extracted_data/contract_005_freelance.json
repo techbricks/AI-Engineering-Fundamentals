@@ -1,0 +1,23 @@
+{
+  "source_file": "contract_005_freelance",
+  "document_type": "contract",
+  "extracted_at": "2026-04-03T20:20:49.971752",
+  "data": {
+    "contract_title": "Web Development Services - Independent Contractor",
+    "contract_type": "Freelance",
+    "effective_date": "February 1, 2024",
+    "expiration_date": "July 31, 2024",
+    "parties": [
+      {
+        "name": "SmallBusiness Solutions LLC",
+        "role": "Client"
+      },
+      {
+        "name": "Sarah Patel",
+        "role": "Independent Contractor"
+      }
+    ],
+    "total_value": 35000.0,
+    "governing_law": "State of Oregon"
+  }
+}
