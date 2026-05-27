@@ -1,0 +1,23 @@
+{
+  "source_file": "contract_004_lease",
+  "document_type": "contract",
+  "extracted_at": "2026-04-03T20:20:49.970750",
+  "data": {
+    "contract_title": "Commercial Office Space Lease",
+    "contract_type": "Lease",
+    "effective_date": "June 1, 2024",
+    "expiration_date": "May 31, 2027",
+    "parties": [
+      {
+        "name": "Downtown Properties LLC",
+        "role": "Landlord"
+      },
+      {
+        "name": "StartupXYZ Inc.",
+        "role": "Tenant"
+      }
+    ],
+    "total_value": 225000.0,
+    "governing_law": "State of California"
+  }
+}
