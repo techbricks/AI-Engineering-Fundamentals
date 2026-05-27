@@ -1,0 +1,48 @@
+{
+  "source_file": "invoice_001_corporate",
+  "document_type": "invoice",
+  "extracted_at": "2026-04-03T20:20:49.959674",
+  "data": {
+    "invoice_number": "INV-2024-0842",
+    "invoice_date": "2024-01-15",
+    "due_date": "2024-02-14",
+    "vendor_name": "TechCorp Solutions Inc.",
+    "customer_name": "Acme Corporation",
+    "line_items": [
+      {
+        "description": "Cloud Infrastructure Setup",
+        "quantity": 1.0,
+        "unit_price": 8500.0,
+        "amount": 8500.0
+      },
+      {
+        "description": "Custom API Development",
+        "quantity": 3.0,
+        "unit_price": 2200.0,
+        "amount": 6600.0
+      },
+      {
+        "description": "Database Migration Services",
+        "quantity": 1.0,
+        "unit_price": 3750.0,
+        "amount": 3750.0
+      },
+      {
+        "description": "Security Audit & Compliance",
+        "quantity": 1.0,
+        "unit_price": 4200.0,
+        "amount": 4200.0
+      },
+      {
+        "description": "Training Sessions (4 hours)",
+        "quantity": 2.0,
+        "unit_price": 450.0,
+        "amount": 900.0
+      }
+    ],
+    "subtotal": 23950.0,
+    "tax_amount": 1933.96,
+    "total": 24686.46,
+    "payment_status": "Pending Payment"
+  }
+}
