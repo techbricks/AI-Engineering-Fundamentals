@@ -1,0 +1,36 @@
+{
+  "source_file": "invoice_006_minimal",
+  "document_type": "invoice",
+  "extracted_at": "2026-04-03T20:20:49.952130",
+  "data": {
+    "invoice_number": "QK-99012",
+    "invoice_date": "2024-07-28",
+    "due_date": null,
+    "vendor_name": "QuickShip Logistics",
+    "customer_name": "FreshMart Groceries",
+    "line_items": [
+      {
+        "description": "overnight delivery",
+        "quantity": 3.0,
+        "unit_price": 45.0,
+        "amount": 135.0
+      },
+      {
+        "description": "insurance",
+        "quantity": null,
+        "unit_price": 12.0,
+        "amount": 12.0
+      },
+      {
+        "description": "handling",
+        "quantity": null,
+        "unit_price": 8.0,
+        "amount": 8.0
+      }
+    ],
+    "subtotal": 155.0,
+    "tax_amount": null,
+    "total": 65.0,
+    "payment_status": null
+  }
+}
