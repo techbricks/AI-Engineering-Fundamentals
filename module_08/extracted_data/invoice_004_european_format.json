@@ -1,0 +1,42 @@
+{
+  "source_file": "invoice_004_european_format",
+  "document_type": "invoice",
+  "extracted_at": "2026-04-03T20:20:49.950120",
+  "data": {
+    "invoice_number": "MS-2024-0892",
+    "invoice_date": "2024-06-18",
+    "due_date": "2024-07-18",
+    "vendor_name": "M\u00fcller & Schmidt GmbH",
+    "customer_name": "Nordic Tech AS",
+    "line_items": [
+      {
+        "description": "Consulting Services (40 hrs)",
+        "quantity": 40.0,
+        "unit_price": 120.0,
+        "amount": 4800.0
+      },
+      {
+        "description": "Software Implementation",
+        "quantity": null,
+        "unit_price": null,
+        "amount": 3200.0
+      },
+      {
+        "description": "Training Workshop (2 days)",
+        "quantity": null,
+        "unit_price": null,
+        "amount": 1600.0
+      },
+      {
+        "description": "Travel Expenses",
+        "quantity": null,
+        "unit_price": null,
+        "amount": 450.0
+      }
+    ],
+    "subtotal": 10050.0,
+    "tax_amount": 1909.5,
+    "total": 11959.5,
+    "payment_status": null
+  }
+}
