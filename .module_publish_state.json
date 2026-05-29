@@ -33,7 +33,8 @@
     "module_08/extracted_data/invoice_001_corporate.json",
     "module_08/extracted_data/invoice_002_simple_receipt.json",
     "module_08/extracted_data/invoice_003_email_style.json",
-    "module_08/extracted_data/invoice_004_european_format.json"
+    "module_08/extracted_data/invoice_004_european_format.json",
+    "module_08/extracted_data/invoice_005_handwritten_style.json"
   ],
   "published_modules": [
     "module_01",

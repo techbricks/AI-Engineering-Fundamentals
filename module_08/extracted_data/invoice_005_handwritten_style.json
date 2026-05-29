@@ -1,0 +1,42 @@
+{
+  "source_file": "invoice_005_handwritten_style",
+  "document_type": "invoice",
+  "extracted_at": "2026-04-03T20:20:49.957685",
+  "data": {
+    "invoice_number": "PP-5521",
+    "invoice_date": "2024-05-10",
+    "due_date": null,
+    "vendor_name": "Pete's Plumbing Services",
+    "customer_name": "Mr. James Wilson",
+    "line_items": [
+      {
+        "description": "Fixed leaky kitchen faucet (parts + labor)",
+        "quantity": null,
+        "unit_price": 125.0,
+        "amount": 125.0
+      },
+      {
+        "description": "Replaced bathroom sink drain",
+        "quantity": null,
+        "unit_price": 85.0,
+        "amount": 85.0
+      },
+      {
+        "description": "Snaked clogged shower drain",
+        "quantity": null,
+        "unit_price": 95.0,
+        "amount": 95.0
+      },
+      {
+        "description": "Emergency call-out fee",
+        "quantity": null,
+        "unit_price": 50.0,
+        "amount": 50.0
+      }
+    ],
+    "subtotal": 355.0,
+    "tax_amount": null,
+    "total": 355.0,
+    "payment_status": null
+  }
+}
