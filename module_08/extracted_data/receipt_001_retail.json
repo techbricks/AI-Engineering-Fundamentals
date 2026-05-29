@@ -1,0 +1,46 @@
+{
+  "source_file": "receipt_001_retail",
+  "document_type": "receipt",
+  "extracted_at": "2026-04-03T20:20:49.951124",
+  "data": {
+    "receipt_number": "TXN-20240322-2847-12",
+    "store_name": "BEST BUY ELECTRONICS",
+    "date": "03/22/2024",
+    "items": [
+      {
+        "description": "Apple MacBook Pro 14\" M3 Pro",
+        "quantity": 1.0,
+        "price": 1999.0
+      },
+      {
+        "description": "Logitech MX Master 3S Mouse",
+        "quantity": 1.0,
+        "price": 99.99
+      },
+      {
+        "description": "USB-C to USB-C Cable (6ft)",
+        "quantity": 2.0,
+        "price": 24.99
+      },
+      {
+        "description": "Laptop Stand Aluminum",
+        "quantity": 1.0,
+        "price": 79.99
+      },
+      {
+        "description": "Screen Protector Anti-Glare",
+        "quantity": 1.0,
+        "price": 29.99
+      },
+      {
+        "description": "Extended Warranty (2 Years)",
+        "quantity": 1.0,
+        "price": 199.99
+      }
+    ],
+    "subtotal": 2458.94,
+    "tax": 209.01,
+    "total": 2667.95,
+    "payment_method": "Visa ****4521"
+  }
+}
