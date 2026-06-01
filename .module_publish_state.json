@@ -45,7 +45,8 @@
     "module_08/extracted_data/resume_002_recent_graduate.json",
     "module_08/extracted_data/resume_003_executive.json",
     "module_08/extracted_data/resume_004_career_changer.json",
-    "module_08/extracted_data/resume_005_freelancer.json"
+    "module_08/extracted_data/resume_005_freelancer.json",
+    "module_08/extractor.py"
   ],
   "published_modules": [
     "module_01",
