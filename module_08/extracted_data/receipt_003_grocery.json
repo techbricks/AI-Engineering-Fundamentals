@@ -1,0 +1,101 @@
+{
+  "source_file": "receipt_003_grocery",
+  "document_type": "receipt",
+  "extracted_at": "2026-04-03T20:20:49.962669",
+  "data": {
+    "receipt_number": "SAF-2847-032524-0518",
+    "store_name": "SAFEWAY SUPERMARKET",
+    "date": "03/25/2024",
+    "items": [
+      {
+        "description": "ORGANIC BANANAS",
+        "quantity": 2.34,
+        "price": 1.49
+      },
+      {
+        "description": "ORGANIC MILK 1 GAL",
+        "quantity": 1.0,
+        "price": 6.99
+      },
+      {
+        "description": "EGGS LARGE DOZEN",
+        "quantity": 1.0,
+        "price": 4.29
+      },
+      {
+        "description": "WHOLE WHEAT BREAD",
+        "quantity": 1.0,
+        "price": 3.49
+      },
+      {
+        "description": "CHICKEN BREAST",
+        "quantity": 1.67,
+        "price": 7.99
+      },
+      {
+        "description": "SALMON FILLET",
+        "quantity": 0.89,
+        "price": 14.99
+      },
+      {
+        "description": "BROCCOLI CROWN",
+        "quantity": 1.12,
+        "price": 2.99
+      },
+      {
+        "description": "CARROTS BAG 2LB",
+        "quantity": 1.0,
+        "price": 2.99
+      },
+      {
+        "description": "TOMATOES ROMA",
+        "quantity": 1.45,
+        "price": 3.49
+      },
+      {
+        "description": "ONIONS YELLOW",
+        "quantity": 1.23,
+        "price": 1.29
+      },
+      {
+        "description": "PASTA SPAGHETTI 1LB",
+        "quantity": 2.0,
+        "price": 1.99
+      },
+      {
+        "description": "MARINARA SAUCE 24OZ",
+        "quantity": 1.0,
+        "price": 4.99
+      },
+      {
+        "description": "CHEESE MOZZARELLA 8OZ",
+        "quantity": 1.0,
+        "price": 4.49
+      },
+      {
+        "description": "YOGURT GREEK PLAIN 32OZ",
+        "quantity": 1.0,
+        "price": 5.99
+      },
+      {
+        "description": "APPLES GALA",
+        "quantity": 2.67,
+        "price": 2.49
+      },
+      {
+        "description": "ORANGE JUICE 64OZ",
+        "quantity": 1.0,
+        "price": 5.49
+      },
+      {
+        "description": "COFFEE GROUNDS 12OZ",
+        "quantity": 1.0,
+        "price": 8.99
+      }
+    ],
+    "subtotal": 95.0,
+    "tax": 8.08,
+    "total": 103.08,
+    "payment_method": "Debit Card ****2341"
+  }
+}
