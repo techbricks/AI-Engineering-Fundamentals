@@ -47,7 +47,8 @@
     "module_08/extracted_data/resume_004_career_changer.json",
     "module_08/extracted_data/resume_005_freelancer.json",
     "module_08/extractor.py",
-    "module_08/m8-1-proj-document-extractor.ipynb"
+    "module_08/m8-1-proj-document-extractor.ipynb",
+    "module_08/m8-2-mini-doc-extractor-01-basic-extraction.ipynb"
   ],
   "published_modules": [
     "module_01",
