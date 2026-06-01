@@ -1,0 +1,31 @@
+{
+  "source_file": "receipt_004_gas_station",
+  "document_type": "receipt",
+  "extracted_at": "2026-04-03T20:20:49.975811",
+  "data": {
+    "receipt_number": "TXN-20240320-2847-004",
+    "store_name": "SHELL SERVICE STATION #2847",
+    "date": "03/20/2024",
+    "items": [
+      {
+        "description": "Unleaded Regular",
+        "quantity": 12.547,
+        "price": 53.94
+      },
+      {
+        "description": "Coffee (Large)",
+        "quantity": null,
+        "price": 3.49
+      },
+      {
+        "description": "Energy Bar",
+        "quantity": null,
+        "price": 2.99
+      }
+    ],
+    "subtotal": 60.42,
+    "tax": 4.83,
+    "total": 65.25,
+    "payment_method": "Credit Card - Visa ****5678"
+  }
+}

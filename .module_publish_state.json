@@ -38,7 +38,8 @@
     "module_08/extracted_data/invoice_006_minimal.json",
     "module_08/extracted_data/receipt_001_retail.json",
     "module_08/extracted_data/receipt_002_restaurant.json",
-    "module_08/extracted_data/receipt_003_grocery.json"
+    "module_08/extracted_data/receipt_003_grocery.json",
+    "module_08/extracted_data/receipt_004_gas_station.json"
   ],
   "published_modules": [
     "module_01",
