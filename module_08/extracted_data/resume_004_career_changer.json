@@ -1,0 +1,62 @@
+{
+  "source_file": "resume_004_career_changer",
+  "document_type": "resume",
+  "extracted_at": "2026-04-03T20:20:49.979812",
+  "data": {
+    "full_name": "DAVID KIM",
+    "email": "david.kim@email.com",
+    "phone": "(206) 555-0134",
+    "location": "Seattle, WA",
+    "summary": "Transitioning from 7 years in finance to software engineering, bringing analytical thinking, data-driven decision making, and project management skills. Completed intensive coding bootcamp and built portfolio of full-stack projects. Seeking software engineering role to apply technical skills and business acumen.",
+    "experience": [
+      {
+        "title": "Full-Stack Developer",
+        "company": "Personal Projects",
+        "duration": "January 2023 - Present",
+        "description": "Built 5+ full-stack web applications using React, Node.js, Python, and PostgreSQL. Implemented RESTful APIs, user authentication, and database design. Deployed applications using AWS (EC2, S3, RDS) and Docker."
+      },
+      {
+        "title": "Software Engineering Bootcamp",
+        "company": "TechBootcamp Academy",
+        "duration": "September 2022 - March 2023",
+        "description": "Intensive 6-month program covering full-stack web development. Technologies: JavaScript, Python, React, Node.js, SQL, MongoDB, Git. Completed 20+ projects including capstone project (team of 4). Graduated with honors (top 10% of cohort)."
+      },
+      {
+        "title": "Senior Financial Analyst",
+        "company": "Global Finance Corp.",
+        "duration": "June 2016 - August 2022",
+        "description": "Analyzed financial data and built predictive models using Excel, SQL, and Python to support strategic decision-making. Automated reporting processes using Python scripts, reducing manual work by 15 hours per week. Collaborated with cross-functional teams including engineering, product, and operations."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Business Administration - Finance",
+        "institution": "University of Washington",
+        "year": "May 2016"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Python",
+      "SQL",
+      "HTML/CSS",
+      "React",
+      "Node.js",
+      "Express",
+      "Flask",
+      "Django",
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "Docker",
+      "AWS (EC2, S3, RDS)",
+      "VS Code",
+      "Postman",
+      "REST APIs",
+      "Agile/Scrum",
+      "Data Analysis",
+      "Financial Modeling"
+    ]
+  }
+}
