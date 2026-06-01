@@ -1,0 +1,56 @@
+{
+  "source_file": "resume_002_recent_graduate",
+  "document_type": "resume",
+  "extracted_at": "2026-04-03T20:20:49.973743",
+  "data": {
+    "full_name": "JESSICA MARTINEZ",
+    "email": "jessica.martinez@email.com",
+    "phone": "(310) 555-0145",
+    "location": "Los Angeles, CA",
+    "summary": "Recent Computer Science graduate with strong foundation in software development and passion for building user-friendly applications. Seeking entry-level position to apply academic knowledge and internship experience in a collaborative team environment.",
+    "experience": [
+      {
+        "title": "Software Engineering Intern",
+        "company": "TechStartup Inc.",
+        "duration": "June 2023 - August 2023",
+        "description": "Developed responsive web components using React and TypeScript. Collaborated with senior engineers to implement user authentication features. Wrote unit tests achieving 80% code coverage for assigned modules. Participated in daily standups and sprint planning meetings. Presented project findings to engineering team at end of internship."
+      },
+      {
+        "title": "Web Development Intern",
+        "company": "LocalWeb Solutions",
+        "duration": "January 2023 - May 2023 (Part-time)",
+        "description": "Built and maintained client websites using HTML, CSS, and JavaScript. Assisted in migrating legacy websites to modern responsive design. Created documentation for internal development processes. Supported client communication and requirement gathering."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of California, Los Angeles (UCLA)",
+        "year": "Expected Graduation: June 2024"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C++",
+      "HTML/CSS",
+      "React",
+      "Node.js",
+      "Express",
+      "Flask",
+      "Django",
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Git",
+      "Docker",
+      "AWS (EC2, S3)",
+      "VS Code",
+      "IntelliJ IDEA",
+      "REST APIs",
+      "Agile/Scrum",
+      "Unit Testing (Jest, pytest)"
+    ]
+  }
+}

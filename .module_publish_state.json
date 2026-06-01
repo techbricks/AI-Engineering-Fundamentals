@@ -41,7 +41,8 @@
     "module_08/extracted_data/receipt_003_grocery.json",
     "module_08/extracted_data/receipt_004_gas_station.json",
     "module_08/extracted_data/receipt_005_online.json",
-    "module_08/extracted_data/resume_001_software_engineer.json"
+    "module_08/extracted_data/resume_001_software_engineer.json",
+    "module_08/extracted_data/resume_002_recent_graduate.json"
   ],
   "published_modules": [
     "module_01",
