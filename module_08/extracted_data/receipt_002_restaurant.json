@@ -1,0 +1,46 @@
+{
+  "source_file": "receipt_002_restaurant",
+  "document_type": "receipt",
+  "extracted_at": "2026-04-03T20:20:49.968730",
+  "data": {
+    "receipt_number": "2847",
+    "store_name": "THE GARDEN BISTRO",
+    "date": "03/18/2024",
+    "items": [
+      {
+        "description": "Caesar Salad",
+        "quantity": 2.0,
+        "price": 29.0
+      },
+      {
+        "description": "Grilled Salmon - seasonal vegetables",
+        "quantity": 1.0,
+        "price": 32.0
+      },
+      {
+        "description": "Ribeye Steak 12oz - medium rare, loaded baked potato",
+        "quantity": 1.0,
+        "price": 45.0
+      },
+      {
+        "description": "Pinot Noir - Glass",
+        "quantity": 2.0,
+        "price": 24.0
+      },
+      {
+        "description": "Sparkling Water",
+        "quantity": 2.0,
+        "price": 9.0
+      },
+      {
+        "description": "Chocolate Souffl\u00e9",
+        "quantity": 1.0,
+        "price": 16.0
+      }
+    ],
+    "subtotal": 151.0,
+    "tax": 11.33,
+    "total": 162.33,
+    "payment_method": "Mastercard"
+  }
+}
