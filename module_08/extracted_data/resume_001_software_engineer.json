@@ -1,0 +1,67 @@
+{
+  "source_file": "resume_001_software_engineer",
+  "document_type": "resume",
+  "extracted_at": "2026-04-03T20:20:49.955677",
+  "data": {
+    "full_name": "ALEXANDER CHEN",
+    "email": "alex.chen@email.com",
+    "phone": "(415) 555-0123",
+    "location": "San Francisco, CA",
+    "summary": "Senior Software Engineer with 8+ years of experience building scalable web applications and distributed systems. Expert in Python, JavaScript, and cloud infrastructure. Passionate about clean code, system design, and mentoring junior developers.",
+    "experience": [
+      {
+        "title": "Senior Software Engineer",
+        "company": "TechCorp Solutions Inc.",
+        "duration": "January 2021 - Present",
+        "description": "Architected and developed microservices handling 10M+ daily requests using Python, FastAPI, and Kubernetes. Led migration of legacy monolith to cloud-native architecture, reducing infrastructure costs by 40%. Designed and implemented real-time data processing pipeline using Apache Kafka and Apache Spark. Mentored team of 5 junior engineers, conducting code reviews and technical training sessions."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "CloudScale Systems",
+        "duration": "June 2018 - December 2020",
+        "description": "Developed RESTful APIs and GraphQL endpoints serving mobile and web clients. Built automated testing framework increasing test coverage from 45% to 85%. Collaborated with product team to define technical requirements and delivery timelines. Participated in on-call rotation, maintaining 99.9% uptime SLA."
+      },
+      {
+        "title": "Junior Software Engineer",
+        "company": "StartupXYZ",
+        "duration": "July 2016 - May 2018",
+        "description": "Developed full-stack features using React, Node.js, and PostgreSQL. Implemented user authentication and authorization systems. Optimized database queries reducing page load time by 50%. Participated in agile development process, daily standups, and sprint planning."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of California, Berkeley",
+        "year": "May 2016"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "Java",
+      "Go",
+      "React",
+      "Node.js",
+      "FastAPI",
+      "Django",
+      "Express.js",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Jenkins",
+      "GitHub Actions",
+      "Git",
+      "Linux",
+      "Apache Kafka",
+      "Apache Spark",
+      "GraphQL",
+      "REST APIs"
+    ]
+  }
+}
