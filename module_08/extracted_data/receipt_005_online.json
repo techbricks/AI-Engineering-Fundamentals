@@ -1,0 +1,36 @@
+{
+  "source_file": "receipt_005_online",
+  "document_type": "receipt",
+  "extracted_at": "2026-04-03T20:20:49.976814",
+  "data": {
+    "receipt_number": "112-8472936-2847123",
+    "store_name": "Amazon.com",
+    "date": "March 19, 2024",
+    "items": [
+      {
+        "description": "Wireless Bluetooth Headphones",
+        "quantity": 1.0,
+        "price": 79.99
+      },
+      {
+        "description": "USB-C Charging Cable (3 pack)",
+        "quantity": 1.0,
+        "price": 15.99
+      },
+      {
+        "description": "Phone Case for iPhone 15 Pro",
+        "quantity": 1.0,
+        "price": 24.99
+      },
+      {
+        "description": "Screen Protector Tempered Glass (2 pack)",
+        "quantity": 1.0,
+        "price": 12.99
+      }
+    ],
+    "subtotal": 133.96,
+    "tax": 11.39,
+    "total": 145.35,
+    "payment_method": "Visa ending in 9012"
+  }
+}
