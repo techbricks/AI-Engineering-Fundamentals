@@ -1,0 +1,89 @@
+{
+  "source_file": "resume_005_freelancer",
+  "document_type": "resume",
+  "extracted_at": "2026-04-03T20:20:49.965208",
+  "data": {
+    "full_name": "SARAH PATEL",
+    "email": "sarah.patel@email.com",
+    "phone": "(415) 555-0156",
+    "location": "San Francisco, CA",
+    "summary": "Freelance Full-Stack Developer with 5+ years of experience building custom web applications for startups and small businesses. Specialized in React, Node.js, and cloud deployment. Proven track record of delivering high-quality solutions on time and within budget.",
+    "experience": [
+      {
+        "title": "Freelance Full-Stack Developer",
+        "company": "LocalRetail Co.",
+        "duration": "January 2024 - March 2024",
+        "description": "Built complete online store with shopping cart, payment processing, and admin dashboard. Technologies: React, Node.js, Express, PostgreSQL, Stripe API, AWS. Implemented inventory management, order tracking, and customer accounts. Delivered on-time, 20% under budget."
+      },
+      {
+        "title": "Freelance Full-Stack Developer",
+        "company": "StartupXYZ",
+        "duration": "September 2023 - December 2023",
+        "description": "Developed analytics dashboard with real-time data visualization. Technologies: React, Python Flask, MongoDB, Chart.js, WebSockets. Features: User authentication, role-based access control, data export. Improved client's data analysis efficiency by 60%."
+      },
+      {
+        "title": "Freelance Full-Stack Developer",
+        "company": "FitnessApp Inc.",
+        "duration": "May 2023 - August 2023",
+        "description": "Designed and developed responsive web app for fitness tracking. Technologies: React Native (Web), Node.js, Firebase, Stripe. Features: User profiles, workout tracking, progress charts, subscription management. Launched with 1,000+ active users in first month."
+      },
+      {
+        "title": "Freelance Full-Stack Developer",
+        "company": "MediaCompany LLC",
+        "duration": "January 2023 - April 2023",
+        "description": "Built custom CMS for content publishing and management. Technologies: Next.js, Node.js, PostgreSQL, AWS S3. Features: Rich text editor, media library, SEO optimization, analytics. Reduced content publishing time by 50%."
+      },
+      {
+        "title": "Freelance Full-Stack Developer",
+        "company": "DataSolutions Corp.",
+        "duration": "August 2022 - November 2022",
+        "description": "Developed RESTful API for data processing and integration. Technologies: Python, FastAPI, PostgreSQL, Docker, AWS Lambda. Integrated with third-party services (Salesforce, HubSpot, Stripe). Handled 1M+ API requests per month with 99.9% uptime."
+      },
+      {
+        "title": "Freelance Full-Stack Developer",
+        "company": "Multiple Clients",
+        "duration": "2019 - 2022",
+        "description": "Customized WordPress themes and developed custom plugins. Technologies: PHP, JavaScript, MySQL, WordPress APIs. Completed 15+ projects for small businesses and bloggers. Improved site performance and SEO for all clients."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "San Francisco State University",
+        "year": "May 2019"
+      }
+    ],
+    "skills": [
+      "React",
+      "Next.js",
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Material-UI",
+      "Node.js",
+      "Express",
+      "Python",
+      "Flask",
+      "FastAPI",
+      "REST APIs",
+      "GraphQL",
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Firebase",
+      "AWS (EC2, S3, RDS, Lambda)",
+      "Docker",
+      "CI/CD",
+      "GitHub Actions",
+      "Git",
+      "VS Code",
+      "Postman",
+      "Figma",
+      "WordPress",
+      "Stripe API",
+      "Twilio API"
+    ]
+  }
+}
