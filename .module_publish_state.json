@@ -53,7 +53,8 @@
     "module_08/m8-4-mini-doc-extractor-03-multi-document-types.ipynb",
     "module_08/m8-5-mini-doc-extractor-04-error-handling.ipynb",
     "module_08/m8-6-mini-doc-extractor-05-batch-processing.ipynb",
-    "module_09/m9-1-mini-reference-eval.ipynb"
+    "module_09/m9-1-mini-reference-eval.ipynb",
+    "module_09/m9-2-mini-llm-judge.ipynb"
   ],
   "published_modules": [
     "module_01",
