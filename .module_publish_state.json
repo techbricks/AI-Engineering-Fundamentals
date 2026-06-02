@@ -55,7 +55,8 @@
     "module_08/m8-6-mini-doc-extractor-05-batch-processing.ipynb",
     "module_09/m9-1-mini-reference-eval.ipynb",
     "module_09/m9-2-mini-llm-judge.ipynb",
-    "module_09/m9-3-mini-auto-grader.ipynb"
+    "module_09/m9-3-mini-auto-grader.ipynb",
+    "module_09/m9-4-lab-evaluation-pipeline.ipynb"
   ],
   "published_modules": [
     "module_01",
