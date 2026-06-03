@@ -56,7 +56,8 @@
     "module_09/m9-1-mini-reference-eval.ipynb",
     "module_09/m9-2-mini-llm-judge.ipynb",
     "module_09/m9-3-mini-auto-grader.ipynb",
-    "module_09/m9-4-lab-evaluation-pipeline.ipynb"
+    "module_09/m9-4-lab-evaluation-pipeline.ipynb",
+    "module_09/m9-5-lab-agent-evaluation.ipynb"
   ],
   "published_modules": [
     "module_01",
