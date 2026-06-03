@@ -60,7 +60,8 @@
     "module_09/m9-5-lab-agent-evaluation.ipynb",
     "module_10/__pycache__/app.cpython-312.pyc",
     "module_10/__pycache__/llm_api.cpython-312.pyc",
-    "module_10/m10-1-mini-fastapi.ipynb"
+    "module_10/m10-1-mini-fastapi.ipynb",
+    "module_10/m10-2-mini-async.ipynb"
   ],
   "published_modules": [
     "module_01",
