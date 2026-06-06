@@ -62,7 +62,8 @@
     "module_10/__pycache__/llm_api.cpython-312.pyc",
     "module_10/m10-1-mini-fastapi.ipynb",
     "module_10/m10-2-mini-async.ipynb",
-    "module_10/m10-3-mini-cache.ipynb"
+    "module_10/m10-3-mini-cache.ipynb",
+    "module_10/m10-4-mini-retry.ipynb"
   ],
   "published_modules": [
     "module_01",
