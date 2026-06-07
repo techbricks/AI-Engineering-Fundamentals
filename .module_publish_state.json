@@ -65,7 +65,8 @@
     "module_10/m10-3-mini-cache.ipynb",
     "module_10/m10-4-mini-retry.ipynb",
     "module_10/m10-5-mini-observability.ipynb",
-    "module_10/m10-6-mini-cost.ipynb"
+    "module_10/m10-6-mini-cost.ipynb",
+    "module_10/m10-7-lab-production-api.ipynb"
   ],
   "published_modules": [
     "module_01",
