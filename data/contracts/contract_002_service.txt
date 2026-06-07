@@ -1,0 +1,126 @@
+SOFTWARE DEVELOPMENT SERVICES AGREEMENT
+
+═══════════════════════════════════════════════════════════════════════════════
+CONTRACT INFORMATION
+═══════════════════════════════════════════════════════════════════════════════
+Contract Number: SVC-2024-0187
+Contract Title: Custom Web Application Development Services
+Contract Type: Service
+Effective Date: May 1, 2024
+Expiration Date: December 31, 2024
+Execution Date: April 20, 2024
+
+═══════════════════════════════════════════════════════════════════════════════
+PARTIES
+═══════════════════════════════════════════════════════════════════════════════
+CLIENT (First Party):
+Acme Corporation
+5678 Business Park Boulevard
+Los Angeles, CA 90012
+United States
+Representative: Robert Johnson, Chief Technology Officer
+
+CONTRACTOR (Second Party):
+TechSolutions Consulting LLC
+890 Tech Avenue, Suite 200
+San Francisco, CA 94103
+United States
+Representative: Sarah Patel, Principal Consultant
+
+═══════════════════════════════════════════════════════════════════════════════
+SCOPE OF WORK (SOW)
+═══════════════════════════════════════════════════════════════════════════════
+Contractor agrees to provide the following services to Client:
+
+DELIVERABLES:
+1. Custom web application with user authentication and authorization
+2. Admin dashboard for content management
+3. RESTful API backend with PostgreSQL database
+4. Responsive frontend using React framework
+5. Deployment on AWS cloud infrastructure
+6. Technical documentation and user manuals
+7. Training sessions for Client's technical team (8 hours total)
+
+MILESTONES:
+• Milestone 1: Project kickoff and requirements finalization (May 15, 2024)
+• Milestone 2: Database design and API specification (June 15, 2024)
+• Milestone 3: Backend development completion (August 15, 2024)
+• Milestone 4: Frontend development completion (October 15, 2024)
+• Milestone 5: Testing, deployment, and documentation (November 30, 2024)
+• Milestone 6: Training and project handoff (December 15, 2024)
+
+═══════════════════════════════════════════════════════════════════════════════
+FINANCIAL TERMS
+═══════════════════════════════════════════════════════════════════════════════
+Total Contract Value: $125,000.00
+Currency: USD
+
+Payment Terms:
+• 30% ($37,500) upon contract execution
+• 30% ($37,500) upon completion of Milestone 3
+• 30% ($37,500) upon completion of Milestone 5
+• 10% ($12,500) upon final acceptance and project handoff
+
+Payment Schedule: Net 30 days from invoice date
+
+═══════════════════════════════════════════════════════════════════════════════
+TERMINATION
+═══════════════════════════════════════════════════════════════════════════════
+Either party may terminate this agreement with 60 days written notice. 
+Upon termination, Client shall pay Contractor for all work completed and 
+approved up to the termination date.
+
+Termination Notice Days: 60 days
+
+═══════════════════════════════════════════════════════════════════════════════
+RENEWAL TERMS
+═══════════════════════════════════════════════════════════════════════════════
+This agreement may be renewed by mutual written consent of both parties. 
+Contractor may propose maintenance and support services for an additional 
+12-month period.
+
+Renewal Terms: Manual renewal by mutual agreement
+
+═══════════════════════════════════════════════════════════════════════════════
+CONFIDENTIALITY AND INTELLECTUAL PROPERTY
+═══════════════════════════════════════════════════════════════════════════════
+Has Confidentiality Clause: Yes
+All proprietary information shared between parties shall remain confidential.
+
+Has Non-Compete: No
+Non-Compete Duration: N/A
+
+Intellectual Property:
+Upon full payment, all deliverables and work product shall become the 
+exclusive property of Client. Contractor retains rights to general methodologies 
+and pre-existing tools.
+
+═══════════════════════════════════════════════════════════════════════════════
+GOVERNING LAW
+═══════════════════════════════════════════════════════════════════════════════
+This agreement shall be governed by and construed in accordance with the laws 
+of the State of California.
+
+Governing Law: State of California
+
+═══════════════════════════════════════════════════════════════════════════════
+SIGNATURES
+═══════════════════════════════════════════════════════════════════════════════
+CLIENT:
+
+Signature: _________________________
+Name: Robert Johnson
+Title: Chief Technology Officer
+Date Signed: April 20, 2024
+Is Signed: Yes
+
+CONTRACTOR:
+
+Signature: _________________________
+Name: Sarah Patel
+Title: Principal Consultant
+Date Signed: April 20, 2024
+Is Signed: Yes
+
+This Service Agreement represents the entire agreement between the parties 
+regarding the subject matter herein.
