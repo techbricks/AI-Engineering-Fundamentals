@@ -69,7 +69,8 @@
     "module_10/m10-7-lab-production-api.ipynb",
     "data/ai_engineering_docs/api_references.json",
     "data/ai_engineering_docs/concepts.json",
-    "data/ai_engineering_docs/config_files.json"
+    "data/ai_engineering_docs/config_files.json",
+    "data/ai_engineering_docs/random_information.json"
   ],
   "published_modules": [
     "module_01",
