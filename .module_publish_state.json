@@ -64,7 +64,8 @@
     "module_10/m10-2-mini-async.ipynb",
     "module_10/m10-3-mini-cache.ipynb",
     "module_10/m10-4-mini-retry.ipynb",
-    "module_10/m10-5-mini-observability.ipynb"
+    "module_10/m10-5-mini-observability.ipynb",
+    "module_10/m10-6-mini-cost.ipynb"
   ],
   "published_modules": [
     "module_01",
