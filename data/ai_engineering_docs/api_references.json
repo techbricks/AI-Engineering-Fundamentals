@@ -1,0 +1,122 @@
+[
+  {
+    "id": "api-001",
+    "type": "api_reference",
+    "title": "openai.chat.completions.create()",
+    "category": "LLM APIs",
+    "content": "# openai.chat.completions.create()\n\nCreates a chat completion for the provided messages.\n\n## Parameters\n\n- **model** (str, required): ID of the model to use (e.g., 'gpt-4o', 'gpt-4o-mini')\n- **messages** (list, required): List of message objects with 'role' and 'content' keys\n- **temperature** (float, optional): Sampling temperature between 0 and 2. Default: 1\n- **top_p** (float, optional): Nucleus sampling parameter. Default: 1\n- **max_tokens** (int, optional): Maximum tokens to generate\n- **stream** (bool, optional): Whether to stream partial responses. Default: False\n- **stop** (str|list, optional): Sequences where the API stops generating\n- **response_format** (dict, optional): Format specification, e.g., {'type': 'json_object'}\n\n## Returns\n\nChatCompletion object with:\n- choices[0].message.content: The generated response\n- usage.prompt_tokens: Tokens in the prompt\n- usage.completion_tokens: Tokens in the response\n\n## Example\n\n```python\nfrom openai import OpenAI\nclient = OpenAI()\n\nresponse = client.chat.completions.create(\n    model='gpt-4o-mini',\n    messages=[{'role': 'user', 'content': 'Hello!'}],\n    temperature=0.7\n)\nprint(response.choices[0].message.content)\n```",
+    "tags": ["openai", "chat", "completion", "api"]
+  },
+  {
+    "id": "api-002",
+    "type": "api_reference",
+    "title": "openai.embeddings.create()",
+    "category": "Embeddings",
+    "content": "# openai.embeddings.create()\n\nCreates embedding vectors for the provided input text.\n\n## Parameters\n\n- **model** (str, required): Model ID (e.g., 'text-embedding-3-small', 'text-embedding-3-large')\n- **input** (str|list, required): Text or list of texts to embed\n- **dimensions** (int, optional): Number of dimensions for the output vectors\n- **encoding_format** (str, optional): 'float' or 'base64'. Default: 'float'\n\n## Returns\n\nEmbeddingResponse object with:\n- data[i].embedding: List of floats representing the vector\n- usage.total_tokens: Total tokens processed\n\n## Example\n\n```python\nfrom openai import OpenAI\nclient = OpenAI()\n\nresponse = client.embeddings.create(\n    model='text-embedding-3-small',\n    input='The quick brown fox jumps over the lazy dog',\n    dimensions=512\n)\nvector = response.data[0].embedding\nprint(f'Vector dimension: {len(vector)}')\n```\n\n## Notes\n\n- text-embedding-3-small: 1536 dimensions (default), faster, cheaper\n- text-embedding-3-large: 3072 dimensions (default), higher quality",
+    "tags": ["openai", "embeddings", "vectors", "api"]
+  },
+  {
+    "id": "api-003",
+    "type": "api_reference",
+    "title": "chromadb.Client.create_collection()",
+    "category": "Vector Databases",
+    "content": "# chromadb.Client.create_collection()\n\nCreates a new collection in the ChromaDB database for storing vectors.\n\n## Parameters\n\n- **name** (str, required): Unique name for the collection\n- **metadata** (dict, optional): Collection-level metadata\n- **embedding_function** (EmbeddingFunction, optional): Custom embedding function\n- **get_or_create** (bool, optional): If True, returns existing collection if exists\n\n## Returns\n\nCollection object with methods for add, query, update, delete operations.\n\n## Example\n\n```python\nimport chromadb\nfrom chromadb.utils.embedding_functions import OpenAIEmbeddingFunction\n\nclient = chromadb.Client()\n\n# With custom embedding function\nembed_fn = OpenAIEmbeddingFunction(model_name='text-embedding-3-small')\ncollection = client.create_collection(\n    name='my_documents',\n    embedding_function=embed_fn,\n    metadata={'description': 'Technical documentation'}\n)\n```\n\n## Distance Metrics\n\nSet via metadata:\n- 'l2': Squared L2 distance (default)\n- 'ip': Inner product\n- 'cosine': Cosine similarity",
+    "tags": ["chromadb", "vector-db", "collections", "api"]
+  },
+  {
+    "id": "api-004",
+    "type": "api_reference",
+    "title": "collection.add()",
+    "category": "Vector Databases",
+    "content": "# collection.add()\n\nAdds documents to a ChromaDB collection with embeddings and metadata.\n\n## Parameters\n\n- **ids** (list[str], required): Unique identifiers for each document\n- **documents** (list[str], optional): Raw text documents (auto-embedded)\n- **embeddings** (list[list[float]], optional): Pre-computed embeddings\n- **metadatas** (list[dict], optional): Metadata for each document\n\n## Example\n\n```python\ncollection.add(\n    ids=['doc1', 'doc2', 'doc3'],\n    documents=[\n        'Introduction to machine learning',\n        'Deep learning with neural networks',\n        'Natural language processing basics'\n    ],\n    metadatas=[\n        {'source': 'textbook', 'chapter': 1},\n        {'source': 'textbook', 'chapter': 2},\n        {'source': 'tutorial', 'level': 'beginner'}\n    ]\n)\n```\n\n## Notes\n\n- Either documents OR embeddings must be provided\n- If documents provided, collection's embedding function is used\n- IDs must be unique within the collection",
+    "tags": ["chromadb", "vector-db", "add", "api"]
+  },
+  {
+    "id": "api-005",
+    "type": "api_reference",
+    "title": "collection.query()",
+    "category": "Vector Databases",
+    "content": "# collection.query()\n\nQueries a ChromaDB collection for similar documents.\n\n## Parameters\n\n- **query_texts** (list[str], optional): Text queries to embed and search\n- **query_embeddings** (list[list[float]], optional): Pre-computed query vectors\n- **n_results** (int, optional): Number of results per query. Default: 10\n- **where** (dict, optional): Metadata filter conditions\n- **where_document** (dict, optional): Document content filter\n- **include** (list[str], optional): What to include in results\n\n## Returns\n\nQueryResult with:\n- ids: List of matching document IDs\n- distances: Similarity scores\n- documents: Original document texts\n- metadatas: Document metadata\n\n## Example\n\n```python\nresults = collection.query(\n    query_texts=['How does attention work?'],\n    n_results=5,\n    where={'source': 'textbook'},\n    include=['documents', 'metadatas', 'distances']\n)\n\nfor doc, dist in zip(results['documents'][0], results['distances'][0]):\n    print(f'Distance: {dist:.4f} - {doc[:100]}...')\n```",
+    "tags": ["chromadb", "vector-db", "query", "search", "api"]
+  },
+  {
+    "id": "api-006",
+    "type": "api_reference",
+    "title": "anthropic.messages.create()",
+    "category": "LLM APIs",
+    "content": "# anthropic.messages.create()\n\nCreates a message using Anthropic's Claude models.\n\n## Parameters\n\n- **model** (str, required): Model ID (e.g., 'claude-3-5-sonnet-20241022')\n- **max_tokens** (int, required): Maximum tokens to generate\n- **messages** (list, required): Conversation messages\n- **system** (str, optional): System prompt\n- **temperature** (float, optional): Sampling temperature 0-1. Default: 1\n- **top_p** (float, optional): Nucleus sampling. Default: 0.999\n- **top_k** (int, optional): Top-k sampling\n- **stream** (bool, optional): Enable streaming. Default: False\n\n## Returns\n\nMessage object with:\n- content[0].text: Generated response text\n- usage.input_tokens: Prompt tokens\n- usage.output_tokens: Response tokens\n\n## Example\n\n```python\nimport anthropic\nclient = anthropic.Anthropic()\n\nmessage = client.messages.create(\n    model='claude-3-5-sonnet-20241022',\n    max_tokens=1024,\n    system='You are a helpful AI assistant.',\n    messages=[{'role': 'user', 'content': 'Explain transformers briefly.'}]\n)\nprint(message.content[0].text)\n```",
+    "tags": ["anthropic", "claude", "chat", "api"]
+  },
+  {
+    "id": "api-007",
+    "type": "api_reference",
+    "title": "tiktoken.encoding_for_model()",
+    "category": "Tokenization",
+    "content": "# tiktoken.encoding_for_model()\n\nGets the appropriate tokenizer encoding for a specific OpenAI model.\n\n## Parameters\n\n- **model_name** (str, required): The model name (e.g., 'gpt-4o', 'gpt-3.5-turbo')\n\n## Returns\n\nEncoding object with encode/decode methods.\n\n## Example\n\n```python\nimport tiktoken\n\n# Get encoding for GPT-4\nenc = tiktoken.encoding_for_model('gpt-4o')\n\n# Encode text to tokens\ntext = 'Hello, how are you?'\ntokens = enc.encode(text)\nprint(f'Tokens: {tokens}')\nprint(f'Token count: {len(tokens)}')\n\n# Decode back to text\ndecoded = enc.decode(tokens)\nprint(f'Decoded: {decoded}')\n\n# Get individual token strings\nfor token in tokens:\n    print(f'{token} -> {enc.decode([token])!r}')\n```\n\n## Common Encodings\n\n- cl100k_base: GPT-4, GPT-3.5-turbo, text-embedding-3-*\n- o200k_base: GPT-4o models",
+    "tags": ["tiktoken", "tokenization", "encoding", "api"]
+  },
+  {
+    "id": "api-008",
+    "type": "api_reference",
+    "title": "SentenceTransformer.encode()",
+    "category": "Embeddings",
+    "content": "# SentenceTransformer.encode()\n\nEncodes sentences into dense vector embeddings using sentence-transformers.\n\n## Parameters\n\n- **sentences** (str|list, required): Text or list of texts to encode\n- **batch_size** (int, optional): Batch size for encoding. Default: 32\n- **show_progress_bar** (bool, optional): Display progress. Default: None\n- **convert_to_numpy** (bool, optional): Return numpy array. Default: True\n- **normalize_embeddings** (bool, optional): L2 normalize vectors. Default: False\n\n## Returns\n\nnumpy.ndarray of shape (num_sentences, embedding_dim)\n\n## Example\n\n```python\nfrom sentence_transformers import SentenceTransformer\n\n# Load model\nmodel = SentenceTransformer('all-MiniLM-L6-v2')\n\n# Encode sentences\nsentences = [\n    'This is an example sentence',\n    'Each sentence is converted to a vector'\n]\nembeddings = model.encode(sentences, normalize_embeddings=True)\n\nprint(f'Shape: {embeddings.shape}')  # (2, 384)\n\n# Compute similarity\nfrom sklearn.metrics.pairwise import cosine_similarity\nsimilarity = cosine_similarity([embeddings[0]], [embeddings[1]])\nprint(f'Similarity: {similarity[0][0]:.4f}')\n```",
+    "tags": ["sentence-transformers", "embeddings", "encode", "api"]
+  },
+  {
+    "id": "api-009",
+    "type": "api_reference",
+    "title": "instructor.patch()",
+    "category": "Structured Output",
+    "content": "# instructor.patch()\n\nPatches an OpenAI client to support structured outputs with Pydantic models.\n\n## Parameters\n\n- **client** (OpenAI, required): OpenAI client instance\n- **mode** (Mode, optional): Extraction mode. Default: Mode.TOOLS\n\n## Returns\n\nPatched client with response_model support.\n\n## Example\n\n```python\nimport instructor\nfrom openai import OpenAI\nfrom pydantic import BaseModel\n\nclass User(BaseModel):\n    name: str\n    age: int\n    email: str\n\nclient = instructor.patch(OpenAI())\n\nuser = client.chat.completions.create(\n    model='gpt-4o-mini',\n    response_model=User,\n    messages=[{\n        'role': 'user',\n        'content': 'Extract: John Doe, 30 years old, john@example.com'\n    }]\n)\n\nprint(user.name)   # John Doe\nprint(user.age)    # 30\nprint(user.email)  # john@example.com\n```\n\n## Modes\n\n- Mode.TOOLS: Uses function calling (most reliable)\n- Mode.JSON: Uses JSON mode\n- Mode.MD_JSON: Extracts JSON from markdown",
+    "tags": ["instructor", "pydantic", "structured-output", "api"]
+  },
+  {
+    "id": "api-010",
+    "type": "api_reference",
+    "title": "RecursiveCharacterTextSplitter",
+    "category": "Text Processing",
+    "content": "# RecursiveCharacterTextSplitter\n\nSplits text recursively by different characters to create chunks.\n\n## Parameters\n\n- **chunk_size** (int): Maximum size of chunks\n- **chunk_overlap** (int): Overlap between chunks\n- **separators** (list[str], optional): Characters to split on\n- **length_function** (callable, optional): Function to measure length\n\n## Default Separators\n\n['\\n\\n', '\\n', ' ', '']\n\n## Example\n\n```python\nfrom langchain.text_splitter import RecursiveCharacterTextSplitter\n\nsplitter = RecursiveCharacterTextSplitter(\n    chunk_size=500,\n    chunk_overlap=50,\n    separators=['\\n\\n', '\\n', '.', ' ']\n)\n\ntext = '''Chapter 1: Introduction\n\nThis is the first paragraph about machine learning.\nIt contains important concepts.\n\nChapter 2: Deep Learning\n\nNeural networks are the foundation of deep learning.'''\n\nchunks = splitter.split_text(text)\nfor i, chunk in enumerate(chunks):\n    print(f'Chunk {i}: {len(chunk)} chars')\n    print(chunk[:100], '...\\n')\n```",
+    "tags": ["langchain", "text-splitter", "chunking", "api"]
+  },
+  {
+    "id": "api-011",
+    "type": "api_reference",
+    "title": "torch.nn.MultiheadAttention",
+    "category": "Deep Learning",
+    "content": "# torch.nn.MultiheadAttention\n\nMulti-head attention mechanism as described in 'Attention Is All You Need'.\n\n## Parameters\n\n- **embed_dim** (int): Total dimension of the model\n- **num_heads** (int): Number of parallel attention heads\n- **dropout** (float, optional): Dropout probability. Default: 0.0\n- **bias** (bool, optional): Add bias to projections. Default: True\n- **batch_first** (bool, optional): Input format. Default: False\n\n## Forward Parameters\n\n- **query** (Tensor): Query tensor (L, N, E) or (N, L, E) if batch_first\n- **key** (Tensor): Key tensor (S, N, E) or (N, S, E)\n- **value** (Tensor): Value tensor (S, N, E) or (N, S, E)\n- **attn_mask** (Tensor, optional): Attention mask\n\n## Example\n\n```python\nimport torch\nimport torch.nn as nn\n\nmha = nn.MultiheadAttention(embed_dim=512, num_heads=8, batch_first=True)\n\n# Input: (batch, seq_len, embed_dim)\nx = torch.randn(32, 10, 512)\n\n# Self-attention\nattn_output, attn_weights = mha(x, x, x)\nprint(f'Output shape: {attn_output.shape}')  # (32, 10, 512)\nprint(f'Weights shape: {attn_weights.shape}')  # (32, 10, 10)\n```",
+    "tags": ["pytorch", "attention", "transformer", "api"]
+  },
+  {
+    "id": "api-012",
+    "type": "api_reference",
+    "title": "torch.nn.TransformerEncoderLayer",
+    "category": "Deep Learning",
+    "content": "# torch.nn.TransformerEncoderLayer\n\nA single layer of the transformer encoder.\n\n## Parameters\n\n- **d_model** (int): Model dimension\n- **nhead** (int): Number of attention heads\n- **dim_feedforward** (int, optional): FFN dimension. Default: 2048\n- **dropout** (float, optional): Dropout rate. Default: 0.1\n- **activation** (str, optional): 'relu' or 'gelu'. Default: 'relu'\n- **batch_first** (bool, optional): Input format. Default: False\n- **norm_first** (bool, optional): Pre-norm or post-norm. Default: False\n\n## Example\n\n```python\nimport torch\nimport torch.nn as nn\n\nencoder_layer = nn.TransformerEncoderLayer(\n    d_model=512,\n    nhead=8,\n    dim_feedforward=2048,\n    dropout=0.1,\n    batch_first=True\n)\n\n# Stack multiple layers\nencoder = nn.TransformerEncoder(encoder_layer, num_layers=6)\n\n# Forward pass\nx = torch.randn(32, 100, 512)  # (batch, seq, dim)\noutput = encoder(x)\nprint(f'Output shape: {output.shape}')  # (32, 100, 512)\n```",
+    "tags": ["pytorch", "transformer", "encoder", "api"]
+  },
+  {
+    "id": "api-013",
+    "type": "api_reference",
+    "title": "numpy.dot() and cosine_similarity",
+    "category": "Math Operations",
+    "content": "# Cosine Similarity Computation\n\nCompute similarity between vectors using numpy or sklearn.\n\n## Using NumPy\n\n```python\nimport numpy as np\n\ndef cosine_similarity_np(a, b):\n    return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))\n\n# Example\nvec1 = np.array([1, 2, 3])\nvec2 = np.array([4, 5, 6])\nsim = cosine_similarity_np(vec1, vec2)\nprint(f'Similarity: {sim:.4f}')  # 0.9746\n```\n\n## Using sklearn\n\n```python\nfrom sklearn.metrics.pairwise import cosine_similarity\n\n# For multiple vectors\nvectors = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])\nsim_matrix = cosine_similarity(vectors)\nprint(sim_matrix)\n```\n\n## Properties\n\n- Range: [-1, 1] for general vectors, [0, 1] for positive vectors\n- 1: Identical direction\n- 0: Orthogonal (unrelated)\n- -1: Opposite direction",
+    "tags": ["numpy", "sklearn", "cosine-similarity", "math"]
+  },
+  {
+    "id": "api-014",
+    "type": "api_reference",
+    "title": "Pydantic BaseModel",
+    "category": "Data Validation",
+    "content": "# Pydantic BaseModel\n\nBase class for creating data models with validation.\n\n## Basic Usage\n\n```python\nfrom pydantic import BaseModel, Field\nfrom typing import Optional, List\n\nclass Article(BaseModel):\n    title: str = Field(..., min_length=1, max_length=200)\n    content: str\n    author: Optional[str] = None\n    tags: List[str] = Field(default_factory=list)\n    \n    class Config:\n        extra = 'forbid'  # Reject unknown fields\n\n# Create instance\narticle = Article(\n    title='Introduction to LLMs',\n    content='Large Language Models are...',\n    tags=['AI', 'NLP']\n)\n\n# Convert to dict/JSON\nprint(article.model_dump())\nprint(article.model_dump_json())\n```\n\n## Validation\n\n```python\nfrom pydantic import validator\n\nclass User(BaseModel):\n    email: str\n    \n    @validator('email')\n    def validate_email(cls, v):\n        if '@' not in v:\n            raise ValueError('Invalid email')\n        return v.lower()\n```",
+    "tags": ["pydantic", "validation", "models", "api"]
+  },
+  {
+    "id": "api-015",
+    "type": "api_reference",
+    "title": "asyncio with LLM APIs",
+    "category": "Async Programming",
+    "content": "# Async LLM API Calls\n\nUsing asyncio for concurrent LLM requests.\n\n## OpenAI Async\n\n```python\nimport asyncio\nfrom openai import AsyncOpenAI\n\nclient = AsyncOpenAI()\n\nasync def get_completion(prompt: str) -> str:\n    response = await client.chat.completions.create(\n        model='gpt-4o-mini',\n        messages=[{'role': 'user', 'content': prompt}]\n    )\n    return response.choices[0].message.content\n\nasync def batch_completions(prompts: list[str]) -> list[str]:\n    tasks = [get_completion(p) for p in prompts]\n    return await asyncio.gather(*tasks)\n\n# Run\nprompts = ['Explain AI', 'Explain ML', 'Explain DL']\nresults = asyncio.run(batch_completions(prompts))\n```\n\n## Streaming Async\n\n```python\nasync def stream_response(prompt: str):\n    stream = await client.chat.completions.create(\n        model='gpt-4o-mini',\n        messages=[{'role': 'user', 'content': prompt}],\n        stream=True\n    )\n    async for chunk in stream:\n        if chunk.choices[0].delta.content:\n            print(chunk.choices[0].delta.content, end='')\n```",
+    "tags": ["asyncio", "async", "openai", "api"]
+  }
+]

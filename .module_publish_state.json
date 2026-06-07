@@ -66,7 +66,8 @@
     "module_10/m10-4-mini-retry.ipynb",
     "module_10/m10-5-mini-observability.ipynb",
     "module_10/m10-6-mini-cost.ipynb",
-    "module_10/m10-7-lab-production-api.ipynb"
+    "module_10/m10-7-lab-production-api.ipynb",
+    "data/ai_engineering_docs/api_references.json"
   ],
   "published_modules": [
     "module_01",
