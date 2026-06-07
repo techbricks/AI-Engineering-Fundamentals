@@ -72,7 +72,8 @@
     "data/ai_engineering_docs/config_files.json",
     "data/ai_engineering_docs/random_information.json",
     "data/ai_engineering_docs/troubleshooting.json",
-    "data/ai_engineering_docs/tutorials.json"
+    "data/ai_engineering_docs/tutorials.json",
+    "data/contracts/contract_001_employment.txt"
   ],
   "published_modules": [
     "module_01",

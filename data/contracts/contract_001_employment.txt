@@ -1,0 +1,105 @@
+EMPLOYMENT AGREEMENT
+
+Contract Number: EMP-2024-0042
+Contract Title: Senior Software Engineer Employment Agreement
+Contract Type: Employment
+Effective Date: April 1, 2024
+Expiration Date: At-Will Employment (No fixed expiration)
+Execution Date: March 15, 2024
+
+PARTIES
+───────────────────────────────────────────────────────────────────────────────
+EMPLOYER (First Party):
+TechCorp Solutions Inc.
+1234 Innovation Drive, Suite 500
+San Francisco, CA 94105
+United States
+Representative: Jennifer Williams, VP of Human Resources
+
+EMPLOYEE (Second Party):
+Alexander Chen
+456 Oak Avenue, Apt 3B
+San Francisco, CA 94102
+United States
+
+TERMS OF EMPLOYMENT
+
+1. POSITION AND DUTIES
+   Employee shall serve as Senior Software Engineer, reporting to the Director 
+   of Engineering. Employee agrees to perform all duties assigned by Employer 
+   and to devote full time and attention to Employer's business.
+
+2. COMPENSATION
+   Base Salary: $150,000 per year, paid bi-weekly
+   Annual Bonus: Up to 20% of base salary, based on performance
+   Equity: 10,000 stock options vesting over 4 years (25% per year)
+   Currency: USD
+
+3. BENEFITS
+   • Health, dental, and vision insurance (Employer pays 90% of premiums)
+   • 401(k) retirement plan with 5% employer match
+   • 20 days paid time off (PTO) per year
+   • 10 paid holidays per year
+   • Professional development budget: $3,000 per year
+   • Life insurance and disability insurance
+
+4. TERMINATION
+   This is an at-will employment agreement. Either party may terminate this 
+   agreement at any time, with or without cause, with 30 days written notice.
+   
+   Termination Notice Days: 30 days
+   
+   Upon termination, Employee shall be entitled to:
+   • Accrued but unpaid salary
+   • Accrued but unused PTO
+   • COBRA continuation coverage (at Employee's expense)
+
+5. CONFIDENTIALITY
+   Employee acknowledges that during employment, Employee will have access to 
+   confidential and proprietary information. Employee agrees to maintain 
+   confidentiality of all such information both during and after employment.
+   
+   Has Confidentiality Clause: Yes
+   Confidentiality Duration: Indefinite (survives termination)
+
+6. NON-COMPETE AND NON-SOLICITATION
+   Employee agrees that for a period of 12 months following termination of 
+   employment, Employee will not:
+   • Work for direct competitors in the same geographic area
+   • Solicit Employer's clients or customers
+   • Solicit or hire Employer's employees
+   
+   Has Non-Compete: Yes
+   Non-Compete Duration: 12 months
+
+7. INTELLECTUAL PROPERTY
+   All work product, inventions, and intellectual property created by Employee 
+   during employment shall be the exclusive property of Employer.
+
+8. GOVERNING LAW
+   This agreement shall be governed by and construed in accordance with the 
+   laws of the State of California.
+
+Governing Law: State of California
+
+SIGNATURES
+───────────────────────────────────────────────────────────────────────────────
+EMPLOYER:
+
+Signature: _________________________
+Name: Jennifer Williams
+Title: VP of Human Resources
+Date Signed: March 15, 2024
+Is Signed: Yes
+
+EMPLOYEE:
+
+Signature: _________________________
+Name: Alexander Chen
+Title: Senior Software Engineer
+Date Signed: March 15, 2024
+Is Signed: Yes
+
+This Employment Agreement constitutes the entire agreement between the parties 
+and supersedes all prior agreements and understandings. Any modifications must 
+be in writing and signed by both parties.
