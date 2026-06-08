@@ -1,0 +1,167 @@
+═══════════════════════════════════════════════════════════════════════════════
+              INDEPENDENT CONTRACTOR SERVICES AGREEMENT
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTRACT NUMBER: FREELANCE-2024-0089
+CONTRACT TITLE: Web Development Services - Independent Contractor
+CONTRACT TYPE: Freelance
+EFFECTIVE DATE: February 1, 2024
+EXPIRATION DATE: July 31, 2024 (6-month project)
+EXECUTION DATE: January 25, 2024
+
+═══════════════════════════════════════════════════════════════════════════════
+PARTIES
+═══════════════════════════════════════════════════════════════════════════════
+
+CLIENT (First Party):
+SmallBusiness Solutions LLC
+123 Main Street
+Portland, OR 97201
+United States
+Representative: Emily Johnson, Owner
+
+CONTRACTOR (Second Party):
+Sarah Patel
+456 Freelance Avenue, Apt 2B
+San Francisco, CA 94103
+United States
+(Independent Contractor)
+
+═══════════════════════════════════════════════════════════════════════════════
+SCOPE OF WORK
+═══════════════════════════════════════════════════════════════════════════════
+
+Contractor agrees to provide web development services to Client for the 
+following project:
+
+PROJECT DESCRIPTION:
+Development of a custom business website with e-commerce functionality, 
+including product catalog, shopping cart, payment processing, and admin 
+dashboard.
+
+DELIVERABLES:
+1. Responsive website design and development (React frontend)
+2. Backend API development (Node.js, Express, PostgreSQL)
+3. Payment integration (Stripe API)
+4. Admin dashboard for product and order management
+5. SEO optimization
+6. Deployment on AWS cloud infrastructure
+7. Source code and documentation
+8. 2 hours of training for Client's staff
+
+═══════════════════════════════════════════════════════════════════════════════
+FINANCIAL TERMS
+═══════════════════════════════════════════════════════════════════════════════
+
+Total Project Value: $35,000.00
+Currency: USD
+
+Payment Schedule:
+• 40% ($14,000) upon contract execution
+• 30% ($10,500) upon completion of backend development (Milestone 1)
+• 30% ($10,500) upon final delivery and acceptance (Milestone 2)
+
+Payment Terms: Net 15 days from invoice date
+
+Hourly Rate (for additional work): $125.00 per hour
+
+═══════════════════════════════════════════════════════════════════════════════
+INDEPENDENT CONTRACTOR STATUS
+═══════════════════════════════════════════════════════════════════════════════
+
+Contractor is an independent contractor and not an employee of Client. 
+Contractor is responsible for:
+• Payment of all taxes on compensation received
+• Providing own equipment and workspace
+• Maintaining own business insurance
+• Setting own work schedule (subject to project deadlines)
+
+═══════════════════════════════════════════════════════════════════════════════
+INTELLECTUAL PROPERTY RIGHTS
+═══════════════════════════════════════════════════════════════════════════════
+
+Upon full payment, all work product, code, designs, and deliverables created 
+by Contractor for this project shall become the exclusive property of Client. 
+Contractor retains rights to:
+• Pre-existing code libraries and frameworks
+• General methodologies and techniques
+• Portfolio rights (may showcase work in portfolio with Client's permission)
+
+═══════════════════════════════════════════════════════════════════════════════
+TERMINATION
+═══════════════════════════════════════════════════════════════════════════════
+
+Either party may terminate this agreement with 30 days written notice. 
+Upon termination:
+• Client shall pay Contractor for all work completed and approved
+• Contractor shall deliver all work product completed to date
+• Each party shall return or destroy confidential information
+
+Termination Notice Days: 30 days
+
+═══════════════════════════════════════════════════════════════════════════════
+RENEWAL TERMS
+═══════════════════════════════════════════════════════════════════════════════
+
+This agreement may be extended or renewed by mutual written consent. Client 
+may engage Contractor for maintenance and support services under separate 
+agreement.
+
+Renewal Terms: Manual renewal by mutual agreement
+
+═══════════════════════════════════════════════════════════════════════════════
+CONFIDENTIALITY
+═══════════════════════════════════════════════════════════════════════════════
+
+Has Confidentiality Clause: Yes
+Contractor agrees to maintain confidentiality of Client's business information, 
+customer data, and proprietary information both during and after the term of 
+this agreement.
+
+═══════════════════════════════════════════════════════════════════════════════
+NON-COMPETE
+═══════════════════════════════════════════════════════════════════════════════
+
+Has Non-Compete: No
+Non-Compete Duration: N/A
+
+Contractor may work for other clients, including competitors, provided that 
+Contractor does not use Client's confidential information.
+
+═══════════════════════════════════════════════════════════════════════════════
+GOVERNING LAW
+═══════════════════════════════════════════════════════════════════════════════
+
+This agreement shall be governed by and construed in accordance with the laws 
+of the State of Oregon.
+
+Governing Law: State of Oregon
+
+═══════════════════════════════════════════════════════════════════════════════
+SIGNATURES
+═══════════════════════════════════════════════════════════════════════════════
+
+CLIENT:
+
+Signature: _________________________
+Name: Emily Johnson
+Title: Owner
+Date Signed: January 25, 2024
+Is Signed: Yes
+
+───────────────────────────────────────────────────────────────────────────────
+
+CONTRACTOR:
+
+Signature: _________________________
+Name: Sarah Patel
+Title: Independent Contractor
+Date Signed: January 25, 2024
+Is Signed: Yes
+
+═══════════════════════════════════════════════════════════════════════════════
+
+This Independent Contractor Agreement represents the entire agreement between 
+the parties regarding the services described herein.
+
+═══════════════════════════════════════════════════════════════════════════════
