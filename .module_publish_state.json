@@ -77,7 +77,8 @@
     "data/contracts/contract_002_service.txt",
     "data/contracts/contract_003_nda.txt",
     "data/contracts/contract_004_lease.txt",
-    "data/contracts/contract_005_freelance.txt"
+    "data/contracts/contract_005_freelance.txt",
+    "data/DATA_SCHEMAS.md"
   ],
   "published_modules": [
     "module_01",
