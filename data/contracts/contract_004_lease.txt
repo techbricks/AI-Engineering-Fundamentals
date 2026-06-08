@@ -1,0 +1,151 @@
+═══════════════════════════════════════════════════════════════════════════════
+                         OFFICE SPACE LEASE AGREEMENT
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTRACT NUMBER: LEASE-2024-0156
+CONTRACT TITLE: Commercial Office Space Lease
+CONTRACT TYPE: Lease
+EFFECTIVE DATE: June 1, 2024
+EXPIRATION DATE: May 31, 2027 (3-year term)
+EXECUTION DATE: May 15, 2024
+
+═══════════════════════════════════════════════════════════════════════════════
+PARTIES
+═══════════════════════════════════════════════════════════════════════════════
+
+LANDLORD (First Party):
+Downtown Properties LLC
+789 Commercial Avenue, Suite 100
+San Francisco, CA 94105
+United States
+Representative: James Anderson, Property Manager
+
+TENANT (Second Party):
+StartupXYZ Inc.
+456 Startup Street
+San Francisco, CA 94102
+United States
+Representative: David Kim, CEO
+
+═══════════════════════════════════════════════════════════════════════════════
+PREMISES
+═══════════════════════════════════════════════════════════════════════════════
+
+Landlord hereby leases to Tenant, and Tenant hereby leases from Landlord, the 
+following premises:
+
+Address: 1234 Business Park Drive, Suite 500
+City: San Francisco
+State: CA
+ZIP Code: 94105
+Square Footage: 2,500 square feet
+Use: General office purposes
+
+═══════════════════════════════════════════════════════════════════════════════
+FINANCIAL TERMS
+═══════════════════════════════════════════════════════════════════════════════
+
+Monthly Rent: $6,250.00
+Total Annual Rent: $75,000.00
+Total Contract Value: $225,000.00 (over 3-year term)
+Currency: USD
+
+Security Deposit: $12,500.00 (two months' rent)
+First Month's Rent: $6,250.00
+Total Due at Signing: $18,750.00
+
+Payment Terms: Rent due on the 1st of each month. Late fee of $250.00 applies 
+if rent is not received by the 5th of the month.
+
+═══════════════════════════════════════════════════════════════════════════════
+LEASE TERM
+═══════════════════════════════════════════════════════════════════════════════
+
+Initial Term: 3 years (36 months)
+Commencement Date: June 1, 2024
+Expiration Date: May 31, 2027
+
+Renewal Terms: Tenant may renew for an additional 2-year term by providing 
+written notice to Landlord at least 90 days prior to expiration date. Renewal 
+rent shall be negotiated in good faith based on market rates.
+
+═══════════════════════════════════════════════════════════════════════════════
+TERMINATION
+═══════════════════════════════════════════════════════════════════════════════
+
+Early Termination: Tenant may terminate this lease early with 90 days written 
+notice, subject to payment of 2 months' rent as early termination fee.
+
+Termination Notice Days: 90 days (for early termination)
+
+Default: Either party may terminate this lease if the other party breaches 
+any material term and fails to cure such breach within 30 days after written 
+notice.
+
+═══════════════════════════════════════════════════════════════════════════════
+CONDITIONS AND MAINTENANCE
+═══════════════════════════════════════════════════════════════════════════════
+
+Landlord Responsibilities:
+• Structural repairs and maintenance
+• Common area maintenance
+• Building insurance
+• Property taxes
+
+Tenant Responsibilities:
+• Interior maintenance and repairs
+• Utilities (electricity, water, internet)
+• Tenant's insurance (liability and contents)
+• Keep premises clean and in good condition
+
+═══════════════════════════════════════════════════════════════════════════════
+CONFIDENTIALITY
+═══════════════════════════════════════════════════════════════════════════════
+
+Has Confidentiality Clause: No
+(Standard lease agreement, no confidentiality provisions)
+
+═══════════════════════════════════════════════════════════════════════════════
+NON-COMPETE
+═══════════════════════════════════════════════════════════════════════════════
+
+Has Non-Compete: No
+Non-Compete Duration: N/A
+
+═══════════════════════════════════════════════════════════════════════════════
+GOVERNING LAW
+═══════════════════════════════════════════════════════════════════════════════
+
+This lease agreement shall be governed by and construed in accordance with the 
+laws of the State of California.
+
+Governing Law: State of California
+
+═══════════════════════════════════════════════════════════════════════════════
+SIGNATURES
+═══════════════════════════════════════════════════════════════════════════════
+
+LANDLORD:
+
+Signature: _________________________
+Name: James Anderson
+Title: Property Manager
+Date Signed: May 15, 2024
+Is Signed: Yes
+
+───────────────────────────────────────────────────────────────────────────────
+
+TENANT:
+
+Signature: _________________________
+Name: David Kim
+Title: CEO
+Date Signed: May 15, 2024
+Is Signed: Yes
+
+═══════════════════════════════════════════════════════════════════════════════
+
+This Lease Agreement constitutes the entire agreement between the parties 
+regarding the lease of the premises described above.
+
+═══════════════════════════════════════════════════════════════════════════════

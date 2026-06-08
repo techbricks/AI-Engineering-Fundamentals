@@ -75,7 +75,8 @@
     "data/ai_engineering_docs/tutorials.json",
     "data/contracts/contract_001_employment.txt",
     "data/contracts/contract_002_service.txt",
-    "data/contracts/contract_003_nda.txt"
+    "data/contracts/contract_003_nda.txt",
+    "data/contracts/contract_004_lease.txt"
   ],
   "published_modules": [
     "module_01",
