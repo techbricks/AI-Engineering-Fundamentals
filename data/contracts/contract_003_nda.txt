@@ -1,0 +1,122 @@
+MUTUAL NON-DISCLOSURE AGREEMENT (NDA)
+
+Contract Number: NDA-2024-0294
+Contract Title: Mutual Non-Disclosure Agreement
+Contract Type: NDA
+Effective Date: March 1, 2024
+Expiration Date: March 1, 2027 (3 years from effective date)
+Execution Date: February 25, 2024
+
+PARTIES
+───────────────────────────────────────────────────────────────────────────────
+FIRST PARTY:
+Innovation Labs Inc.
+123 Tech Boulevard
+Palo Alto, CA 94301
+United States
+Representative: Michael Robertson, CEO
+
+SECOND PARTY:
+DataSolutions Corp.
+456 Data Street, Suite 300
+San Jose, CA 95110
+United States
+Representative: Lisa Chen, VP of Business Development
+
+PURPOSE
+───────────────────────────────────────────────────────────────────────────────
+The parties wish to explore a potential business relationship and may disclose 
+to each other certain confidential and proprietary information. This agreement 
+governs the protection of such information.
+
+CONFIDENTIAL INFORMATION
+───────────────────────────────────────────────────────────────────────────────
+"Confidential Information" means all non-public, proprietary, or confidential 
+information disclosed by one party (Disclosing Party) to the other party 
+(Receiving Party), whether orally, in writing, or in any other form, including 
+but not limited to:
+
+• Technical data, know-how, research, product plans, products, services
+• Customer lists, customer information, marketing plans, business strategies
+• Financial information, pricing, cost data
+• Software, algorithms, source code, specifications
+• Any other information marked as "Confidential" or "Proprietary"
+
+Has Confidentiality Clause: Yes
+
+OBLIGATIONS
+───────────────────────────────────────────────────────────────────────────────
+Each party (Receiving Party) agrees to:
+1. Hold and maintain all Confidential Information in strict confidence
+2. Not disclose Confidential Information to any third party without prior 
+   written consent
+3. Use Confidential Information solely for the purpose of evaluating the 
+   potential business relationship
+4. Take reasonable precautions to protect the confidentiality of the 
+   Confidential Information
+5. Return or destroy all Confidential Information upon request or termination 
+   of discussions
+
+EXCEPTIONS
+───────────────────────────────────────────────────────────────────────────────
+Confidential Information does not include information that:
+• Is publicly available or becomes publicly available through no breach of 
+  this agreement
+• Was rightfully known by Receiving Party prior to disclosure
+• Is independently developed by Receiving Party without use of Confidential 
+  Information
+• Is rightfully received from a third party without breach of any 
+  confidentiality obligation
+
+TERM AND TERMINATION
+───────────────────────────────────────────────────────────────────────────────
+This agreement shall remain in effect for 3 years from the effective date, 
+unless terminated earlier by mutual written consent. The confidentiality 
+obligations shall survive termination and continue for 3 years after the 
+expiration or termination of this agreement.
+
+Termination Notice Days: N/A (Fixed term agreement)
+
+REMEDIES
+───────────────────────────────────────────────────────────────────────────────
+Each party acknowledges that breach of this agreement may cause irreparable 
+harm for which monetary damages may be inadequate. Therefore, each party shall 
+be entitled to seek injunctive relief and other equitable remedies in addition 
+to any other remedies available at law.
+
+NON-COMPETE
+───────────────────────────────────────────────────────────────────────────────
+Has Non-Compete: No
+Non-Compete Duration: N/A
+
+This agreement does not create any obligation to enter into any business 
+relationship or transaction. Neither party is restricted from independently 
+developing or acquiring products or services similar to those discussed.
+
+GOVERNING LAW
+───────────────────────────────────────────────────────────────────────────────
+This agreement shall be governed by and construed in accordance with the laws 
+of the State of California.
+
+Governing Law: State of California
+
+SIGNATURES
+───────────────────────────────────────────────────────────────────────────────
+FIRST PARTY:
+
+Signature: _________________________
+Name: Michael Robertson
+Title: CEO
+Date Signed: February 25, 2024
+Is Signed: Yes
+
+SECOND PARTY:
+
+Signature: _________________________
+Name: Lisa Chen
+Title: VP of Business Development
+Date Signed: February 25, 2024
+Is Signed: Yes
+
+This Mutual Non-Disclosure Agreement is effective as of the date first written 
+above.
