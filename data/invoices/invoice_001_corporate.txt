@@ -1,0 +1,48 @@
+TechCorp Solutions Inc. | 1234 Innovation Drive, Suite 500 | San Francisco, CA 94105 | Phone: (415) 555-0123 | billing@techcorpsolutions.com
+
+═══════════════════════════════════════════════════════════════════════════════
+                                    INVOICE
+═══════════════════════════════════════════════════════════════════════════════
+
+Invoice #: INV-2024-0842
+Issue Date: 2024-01-15
+Payment Due: 2024-02-14
+Terms: Net 30 days
+
+CLIENT INFORMATION:
+Acme Corporation
+5678 Business Park Boulevard
+Los Angeles, CA 90012
+
+═══════════════════════════════════════════════════════════════════════════════
+                                    DETAILS
+═══════════════════════════════════════════════════════════════════════════════
+
+#001 | Cloud Infrastructure Setup | Quantity: 1 | Rate: $8,500.00 | Amount: $8,500.00
+#002 | Custom API Development | Quantity: 3 | Rate: $2,200.00 | Amount: $6,600.00
+#003 | Database Migration Services | Quantity: 1 | Rate: $3,750.00 | Amount: $3,750.00
+#004 | Security Audit & Compliance | Quantity: 1 | Rate: $4,200.00 | Amount: $4,200.00
+#005 | Training Sessions (4 hours) | Quantity: 2 | Rate: $450.00 | Amount: $900.00
+
+═══════════════════════════════════════════════════════════════════════════════
+                                    TOTALS
+═══════════════════════════════════════════════════════════════════════════════
+
+Subtotal: $23,950.00
+Early Payment Discount (5%): -$1,197.50
+─────────────────────────────────────────
+Subtotal After Discount: $22,752.50
+Sales Tax (8.5%): $1,933.96
+─────────────────────────────────────────
+TOTAL AMOUNT DUE: $24,686.46
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Payment Method: Bank Transfer / ACH
+Status: Pending Payment
+
+Remarks: This invoice covers Q1 2024 cloud migration project services. 
+Payment is due within 30 days. For billing inquiries, contact us at 
+billing@techcorpsolutions.com or (415) 555-0123.
+
+Thank you for your business!
