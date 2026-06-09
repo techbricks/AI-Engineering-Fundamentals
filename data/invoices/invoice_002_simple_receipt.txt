@@ -1,0 +1,23 @@
+Invoice
+
+CloudHost Services
+------------------
+Invoice #: REC-8847
+Date: March 22, 2024
+
+Customer: DataFlow Analytics
+
+Services Rendered:
+* Cloud Hosting (Monthly)     $299.00
+* Extra Storage 500GB         $45.00
+* SSL Certificate             $12.00
+* Priority Support            $50.00
+
+------------------------
+TOTAL PAID: $406.00
+------------------------
+
+Payment Method: Credit Card (****4521)
+Transaction ID: TXN-20240322-8847
+
+Questions? support@cloudhost.io

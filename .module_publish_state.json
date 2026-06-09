@@ -79,7 +79,8 @@
     "data/contracts/contract_004_lease.txt",
     "data/contracts/contract_005_freelance.txt",
     "data/DATA_SCHEMAS.md",
-    "data/invoices/invoice_001_corporate.txt"
+    "data/invoices/invoice_001_corporate.txt",
+    "data/invoices/invoice_002_simple_receipt.txt"
   ],
   "published_modules": [
     "module_01",
