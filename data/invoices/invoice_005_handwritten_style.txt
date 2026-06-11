@@ -1,0 +1,25 @@
+Pete's Plumbing Services
+"Quality work you can trust"
+---------------------------------
+
+Invoice
+
+To: Mr. James Wilson
+    847 Oak Street, Apt 3B
+    
+For work done at the above address on May 10, 2024
+
+Job #: PP-5521
+
+Work completed:
+  - Fixed leaky kitchen faucet (parts + labor)... $125
+  - Replaced bathroom sink drain................ $85  
+  - Snaked clogged shower drain................ $95
+  - Emergency call-out fee..................... $50
+
+    TOTAL AMOUNT DUE: $355
+
+Please pay within 7 days. Cash or check accepted.
+For questions call Pete at (555) 123-4567
+
+Thanks for choosing Pete's Plumbing!
