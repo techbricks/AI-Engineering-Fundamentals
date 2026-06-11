@@ -1,0 +1,55 @@
+═══════════════════════════════════════════════════════════════════════════════
+                              SAFEWAY SUPERMARKET
+═══════════════════════════════════════════════════════════════════════════════
+Store #2847                    Cashier: Sarah K.
+450 Market Street              Register: 5
+San Francisco, CA 94105        Date: 03/25/2024
+(415) 555-0162                 Time: 4:18 PM
+═══════════════════════════════════════════════════════════════════════════════
+
+ITEM                          QTY    PRICE    TOTAL
+──────────────────────────────────────────────────────────────────────────────
+ORGANIC BANANAS               2.34 lb  $1.49/lb  $3.49
+ORGANIC MILK 1 GAL             1       $6.99     $6.99
+EGGS LARGE DOZEN               1       $4.29     $4.29
+WHOLE WHEAT BREAD             1       $3.49     $3.49
+CHICKEN BREAST                 1.67 lb  $7.99/lb  $13.34
+SALMON FILLET                  0.89 lb  $14.99/lb $13.34
+BROCCOLI CROWN                 1.12 lb  $2.99/lb  $3.35
+CARROTS BAG 2LB                1       $2.99     $2.99
+TOMATOES ROMA                  1.45 lb  $3.49/lb  $5.06
+ONIONS YELLOW                  1.23 lb  $1.29/lb  $1.59
+PASTA SPAGHETTI 1LB            2       $1.99     $3.98
+MARINARA SAUCE 24OZ            1       $4.99     $4.99
+CHEESE MOZZARELLA 8OZ          1       $4.49     $4.49
+YOGURT GREEK PLAIN 32OZ        1       $5.99     $5.99
+APPLES GALA                    2.67 lb  $2.49/lb  $6.65
+ORANGE JUICE 64OZ              1       $5.49     $5.49
+COFFEE GROUNDS 12OZ            1       $8.99     $8.99
+──────────────────────────────────────────────────────────────────────────────
+                              SUBTOTAL:            $95.00
+                              TAX (8.5%):            $8.08
+                              ───────────────────────────────
+                              TOTAL:              $103.08
+═══════════════════════════════════════════════════════════════════════════════
+
+COUPONS APPLIED:
+- $2.00 OFF Chicken Breast (SAVED)
+- $1.00 OFF Organic Milk (SAVED)
+──────────────────────────────────────────────────────────────────────────────
+                              TOTAL SAVINGS:        $3.00
+
+PAYMENT METHOD: Debit Card ****2341
+REFERENCE: SAF-2847-032524-0518
+
+═══════════════════════════════════════════════════════════════════════════════
+SAFEWAY FOR U REWARDS:
+Points Earned Today: 103 points
+Total Points: 2,847 points
+Fuel Rewards: Save $0.10/gal (up to 20 gallons)
+
+═══════════════════════════════════════════════════════════════════════════════
+Thank you for shopping at Safeway!
+Visit safeway.com for digital coupons and deals.
+═══════════════════════════════════════════════════════════════════════════════
+
