@@ -1,0 +1,36 @@
+FACTURE / INVOICE
+
+Müller & Schmidt GmbH
+Industriestraße 42
+80331 München, Deutschland
+USt-IdNr: DE123456789
+
+───────────────────────────────────────
+Rechnungsnummer / Invoice No: MS-2024-0892
+Rechnungsdatum / Date: 18.06.2024
+───────────────────────────────────────
+
+Kunde / Client:
+Nordic Tech AS
+Storgatan 15
+111 29 Stockholm, Sweden
+
+───────────────────────────────────────
+Beschreibung / Description        Betrag / Amount
+───────────────────────────────────────
+Consulting Services (40 hrs)      $ 4.800,00
+Software Implementation           $ 3.200,00
+Training Workshop (2 days)        $ 1.600,00
+Travel Expenses                   $   450,00
+───────────────────────────────────────
+Nettobetrag / Net Amount:         $ 10.050,00
+MwSt / VAT (19%):                 $  1.909,50
+───────────────────────────────────────
+GESAMTBETRAG / TOTAL:             $ 11.959,50
+───────────────────────────────────────
+
+Zahlungsziel: 30 Tage netto
+Payment Terms: Net 30 days
+
+IBAN: DE89 3704 0044 0532 0130 00
+BIC: COBADEFFXXX

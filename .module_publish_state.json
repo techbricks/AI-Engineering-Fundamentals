@@ -81,7 +81,8 @@
     "data/DATA_SCHEMAS.md",
     "data/invoices/invoice_001_corporate.txt",
     "data/invoices/invoice_002_simple_receipt.txt",
-    "data/invoices/invoice_003_email_style.txt"
+    "data/invoices/invoice_003_email_style.txt",
+    "data/invoices/invoice_004_european_format.txt"
   ],
   "published_modules": [
     "module_01",
