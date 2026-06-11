@@ -86,7 +86,8 @@
     "data/invoices/invoice_005_handwritten_style.txt",
     "data/invoices/invoice_006_minimal.txt",
     "data/load_corpus.py",
-    "data/receipts/receipt_001_retail.txt"
+    "data/receipts/receipt_001_retail.txt",
+    "data/receipts/receipt_002_restaurant.txt"
   ],
   "published_modules": [
     "module_01",
