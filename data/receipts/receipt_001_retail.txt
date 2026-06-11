@@ -1,0 +1,54 @@
+═══════════════════════════════════════════════════════════════════════════════
+                              BEST BUY ELECTRONICS
+═══════════════════════════════════════════════════════════════════════════════
+Store #2847                    Register: 12
+1500 Broadway                  Terminal: 03
+New York, NY 10036             Cashier: Maria R.
+(212) 555-0198                 Date: 03/22/2024
+                              Time: 2:47 PM
+═══════════════════════════════════════════════════════════════════════════════
+
+QTY  DESCRIPTION                          PRICE      TOTAL
+──────────────────────────────────────────────────────────────────────────────
+1    Apple MacBook Pro 14" M3 Pro        $1,999.00   $1,999.00
+     SKU: APP-MBP14-M3P-512GB
+     
+1    Logitech MX Master 3S Mouse          $99.99     $99.99
+     SKU: LOG-MX-M3S-BLK
+     
+2    USB-C to USB-C Cable (6ft)           $24.99     $49.98
+     SKU: CBL-USB-C-6FT
+     
+1    Laptop Stand Aluminum                  $79.99     $79.99
+     SKU: STND-LAP-ALUM-ADJ
+     
+1    Screen Protector Anti-Glare           $29.99     $29.99
+     SKU: PROT-SCR-13-AG
+     
+1    Extended Warranty (2 Years)          $199.99    $199.99
+     SKU: WRRT-EXT-2YR
+──────────────────────────────────────────────────────────────────────────────
+                              SUBTOTAL:            $2,458.94
+                              TAX (8.5%):            $209.01
+                              ───────────────────────────────
+                              TOTAL:               $2,667.95
+═══════════════════════════════════════════════════════════════════════════════
+
+PAYMENT METHOD: Visa ****4521
+AUTHORIZATION CODE: 847293
+REFERENCE: TXN-20240322-2847-12
+
+═══════════════════════════════════════════════════════════════════════════════
+LOYALTY REWARDS:
+Points Earned: 2,668 points
+Total Points Balance: 45,892 points
+Next Reward: $25 off at 50,000 points
+
+═══════════════════════════════════════════════════════════════════════════════
+RETURN POLICY: Items may be returned within 15 days with receipt.
+For returns, please bring this receipt and original packaging.
+
+Thank you for shopping at Best Buy!
+Visit us online at www.bestbuy.com
+
+═══════════════════════════════════════════════════════════════════════════════

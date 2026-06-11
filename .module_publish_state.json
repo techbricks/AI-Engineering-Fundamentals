@@ -85,7 +85,8 @@
     "data/invoices/invoice_004_european_format.txt",
     "data/invoices/invoice_005_handwritten_style.txt",
     "data/invoices/invoice_006_minimal.txt",
-    "data/load_corpus.py"
+    "data/load_corpus.py",
+    "data/receipts/receipt_001_retail.txt"
   ],
   "published_modules": [
     "module_01",
