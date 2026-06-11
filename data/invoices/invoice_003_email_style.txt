@@ -1,0 +1,29 @@
+From: billing@designpro.studio
+To: accounts@retailmax.com
+Subject: Invoice for Design Services - Project #DP-2024-156
+
+Hi RetailMax Team,
+
+Please find below the invoice details for the recently completed project:
+
+Invoice Reference: DP-2024-156
+Project: E-commerce Website Redesign
+Issued: April 5, 2024
+
+Breakdown of charges:
+- UX Research & Wireframing: $2,500
+- Visual Design (12 pages): $4,800
+- Responsive Development: $6,200
+- Quality Assurance Testing: $1,500
+
+Grand Total: $15,000
+
+Payment is due within 14 days. You can pay via bank transfer to:
+DesignPro Studio LLC
+Account: 1122334455
+
+Let me know if you have any questions!
+
+Best regards,
+Sarah Chen
+DesignPro Studio
