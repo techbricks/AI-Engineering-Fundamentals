@@ -1,0 +1,6 @@
+inv: QK-99012
+from: QuickShip Logistics
+to: FreshMart Groceries  
+date: 2024-07-28
+items: overnight delivery x3 ($45), insurance ($12), handling ($8)
+total: $65
