@@ -88,7 +88,8 @@
     "data/load_corpus.py",
     "data/receipts/receipt_001_retail.txt",
     "data/receipts/receipt_002_restaurant.txt",
-    "data/receipts/receipt_003_grocery.txt"
+    "data/receipts/receipt_003_grocery.txt",
+    "data/receipts/receipt_004_gas_station.txt"
   ],
   "published_modules": [
     "module_01",
