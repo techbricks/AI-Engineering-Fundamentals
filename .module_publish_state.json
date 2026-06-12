@@ -90,7 +90,8 @@
     "data/receipts/receipt_002_restaurant.txt",
     "data/receipts/receipt_003_grocery.txt",
     "data/receipts/receipt_004_gas_station.txt",
-    "data/receipts/receipt_005_online.txt"
+    "data/receipts/receipt_005_online.txt",
+    "data/resumes/resume_001_software_engineer.txt"
   ],
   "published_modules": [
     "module_01",

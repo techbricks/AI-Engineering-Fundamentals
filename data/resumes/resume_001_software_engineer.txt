@@ -1,0 +1,89 @@
+ALEXANDER CHEN
+alex.chen@email.com | (415) 555-0123 | San Francisco, CA
+LinkedIn: linkedin.com/in/alexchen | GitHub: github.com/alexchen | Portfolio: alexchen.dev
+
+═══════════════════════════════════════════════════════════════════════════════
+PROFESSIONAL SUMMARY
+═══════════════════════════════════════════════════════════════════════════════
+Senior Software Engineer with 8+ years of experience building scalable web 
+applications and distributed systems. Expert in Python, JavaScript, and cloud 
+infrastructure. Passionate about clean code, system design, and mentoring 
+junior developers.
+
+═══════════════════════════════════════════════════════════════════════════════
+WORK EXPERIENCE
+═══════════════════════════════════════════════════════════════════════════════
+
+Senior Software Engineer | TechCorp Solutions Inc. | San Francisco, CA
+January 2021 - Present
+
+• Architected and developed microservices handling 10M+ daily requests using 
+  Python, FastAPI, and Kubernetes
+• Led migration of legacy monolith to cloud-native architecture, reducing 
+  infrastructure costs by 40%
+• Designed and implemented real-time data processing pipeline using Apache 
+  Kafka and Apache Spark
+• Mentored team of 5 junior engineers, conducting code reviews and technical 
+  training sessions
+• Achievements:
+  - Reduced API response time by 60% through optimization and caching strategies
+  - Implemented CI/CD pipeline reducing deployment time from 2 hours to 15 minutes
+  - Led security audit resulting in zero critical vulnerabilities
+
+───────────────────────────────────────────────────────────────────────────────
+
+Software Engineer | CloudScale Systems | Seattle, WA
+June 2018 - December 2020
+
+• Developed RESTful APIs and GraphQL endpoints serving mobile and web clients
+• Built automated testing framework increasing test coverage from 45% to 85%
+• Collaborated with product team to define technical requirements and 
+  delivery timelines
+• Participated in on-call rotation, maintaining 99.9% uptime SLA
+• Achievements:
+  - Shipped 3 major product features ahead of schedule
+  - Reduced bug rate by 35% through improved testing practices
+
+───────────────────────────────────────────────────────────────────────────────
+
+Junior Software Engineer | StartupXYZ | San Francisco, CA
+July 2016 - May 2018
+
+• Developed full-stack features using React, Node.js, and PostgreSQL
+• Implemented user authentication and authorization systems
+• Optimized database queries reducing page load time by 50%
+• Participated in agile development process, daily standups, and sprint planning
+
+═══════════════════════════════════════════════════════════════════════════════
+EDUCATION
+═══════════════════════════════════════════════════════════════════════════════
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | Berkeley, CA
+Graduated: May 2016 | GPA: 3.7/4.0 | Magna Cum Laude
+
+Relevant Coursework: Data Structures, Algorithms, Database Systems, 
+Distributed Systems, Software Engineering
+
+═══════════════════════════════════════════════════════════════════════════════
+TECHNICAL SKILLS
+═══════════════════════════════════════════════════════════════════════════════
+
+Programming Languages: Python, JavaScript (ES6+), TypeScript, Java, Go
+Frameworks & Libraries: React, Node.js, FastAPI, Django, Express.js
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+Tools: Git, Linux, Apache Kafka, Apache Spark, GraphQL, REST APIs
+
+═══════════════════════════════════════════════════════════════════════════════
+CERTIFICATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+• AWS Certified Solutions Architect - Associate (2022)
+• Kubernetes Administrator (CKA) - Certified (2021)
+
+═══════════════════════════════════════════════════════════════════════════════
+LANGUAGES
+═══════════════════════════════════════════════════════════════════════════════
+
+English (Native), Mandarin Chinese (Conversational)
