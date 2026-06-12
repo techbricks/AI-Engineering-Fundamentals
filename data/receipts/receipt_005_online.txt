@@ -1,0 +1,57 @@
+From: orders@amazon.com
+To: john.smith@email.com
+Subject: Your Amazon.com Order Confirmation #112-8472936-2847123
+Date: March 19, 2024 11:23 AM PDT
+
+Hello John Smith,
+
+Thank you for your order! We're preparing your shipment now.
+
+ORDER DETAILS:
+Order Number: 112-8472936-2847123
+Order Date: March 19, 2024
+Order Time: 11:23 AM PDT
+
+SHIPPING ADDRESS:
+John Smith
+456 Oak Avenue, Apt 3B
+Los Angeles, CA 90012
+United States
+
+ITEMS ORDERED:
+───────────────────────────────────────────────────────────────────────────────
+1x Wireless Bluetooth Headphones ................... $79.99
+   Sold by: TechDeals Inc.
+   
+1x USB-C Charging Cable (3 pack) ................... $15.99
+   Sold by: Amazon.com
+   
+1x Phone Case for iPhone 15 Pro .................... $24.99
+   Sold by: MobileAccessories Co.
+   
+1x Screen Protector Tempered Glass (2 pack) ........ $12.99
+   Sold by: ScreenGuard Pro
+───────────────────────────────────────────────────────────────────────────────
+
+Order Subtotal: $133.96
+Shipping: $0.00 (Amazon Prime - FREE)
+Tax: $11.39
+───────────────────────────────────────────────────────────────────────────────
+TOTAL: $145.35
+
+PAYMENT INFORMATION:
+Payment Method: Visa ending in 9012
+Billing Address: Same as shipping address
+
+SHIPPING INFORMATION:
+Shipping Method: Amazon Prime (FREE)
+Estimated Delivery: March 21, 2024
+Tracking Number: 1Z999AA10123456784
+
+RETURN POLICY:
+Items may be returned within 30 days of delivery for a full refund.
+Visit Your Orders page to initiate a return.
+
+Track your order: amazon.com/your-orders
+
+Thank you for your order!
