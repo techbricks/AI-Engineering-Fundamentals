@@ -92,7 +92,8 @@
     "data/receipts/receipt_004_gas_station.txt",
     "data/receipts/receipt_005_online.txt",
     "data/resumes/resume_001_software_engineer.txt",
-    "data/resumes/resume_002_recent_graduate.txt"
+    "data/resumes/resume_002_recent_graduate.txt",
+    "data/resumes/resume_003_executive.txt"
   ],
   "published_modules": [
     "module_01",
