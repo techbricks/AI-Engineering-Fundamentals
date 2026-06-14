@@ -94,7 +94,8 @@
     "data/resumes/resume_001_software_engineer.txt",
     "data/resumes/resume_002_recent_graduate.txt",
     "data/resumes/resume_003_executive.txt",
-    "data/resumes/resume_004_career_changer.txt"
+    "data/resumes/resume_004_career_changer.txt",
+    "data/resumes/resume_005_freelancer.txt"
   ],
   "published_modules": [
     "module_01",

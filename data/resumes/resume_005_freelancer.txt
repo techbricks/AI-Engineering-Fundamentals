@@ -1,0 +1,81 @@
+SARAH PATEL | Freelance Full-Stack Developer
+sarah.patel@email.com | (415) 555-0156 | San Francisco, CA
+LinkedIn: linkedin.com/in/sarahpatel | GitHub: github.com/sarahpatel
+Portfolio: sarahpatel.dev
+
+SUMMARY
+Freelance Full-Stack Developer with 5+ years of experience building custom 
+web applications for startups and small businesses. Specialized in React, 
+Node.js, and cloud deployment. Proven track record of delivering high-quality 
+solutions on time and within budget.
+
+SELECTED PROJECTS & CLIENTS
+
+E-Commerce Platform | Client: LocalRetail Co. | San Francisco, CA
+January 2024 - March 2024
+Built complete online store with shopping cart, payment processing, and admin 
+dashboard. Technologies: React, Node.js, Express, PostgreSQL, Stripe API, AWS. 
+Implemented inventory management, order tracking, and customer accounts. 
+Delivered on-time, 20% under budget.
+
+───────────────────────────────────────────────────────────────────────────────
+
+SaaS Dashboard Application | Client: StartupXYZ | Remote
+September 2023 - December 2023
+Developed analytics dashboard with real-time data visualization. Technologies: 
+React, Python Flask, MongoDB, Chart.js, WebSockets. Features: User 
+authentication, role-based access control, data export. Improved client's data 
+analysis efficiency by 60%.
+
+───────────────────────────────────────────────────────────────────────────────
+
+Mobile-First Web Application | Client: FitnessApp Inc. | San Francisco, CA
+May 2023 - August 2023
+Designed and developed responsive web app for fitness tracking. Technologies: 
+React Native (Web), Node.js, Firebase, Stripe. Features: User profiles, workout 
+tracking, progress charts, subscription management. Launched with 1,000+ 
+active users in first month.
+
+───────────────────────────────────────────────────────────────────────────────
+
+Content Management System | Client: MediaCompany LLC | Remote
+January 2023 - April 2023
+Built custom CMS for content publishing and management. Technologies: Next.js, 
+Node.js, PostgreSQL, AWS S3. Features: Rich text editor, media library, SEO 
+optimization, analytics. Reduced content publishing time by 50%.
+
+───────────────────────────────────────────────────────────────────────────────
+
+API Development & Integration | Client: DataSolutions Corp. | Remote
+August 2022 - November 2022
+Developed RESTful API for data processing and integration. Technologies: 
+Python, FastAPI, PostgreSQL, Docker, AWS Lambda. Integrated with third-party 
+services (Salesforce, HubSpot, Stripe). Handled 1M+ API requests per month 
+with 99.9% uptime.
+
+───────────────────────────────────────────────────────────────────────────────
+
+WordPress Customization & Plugin Development | Multiple Clients | Remote
+2019 - 2022
+Customized WordPress themes and developed custom plugins. Technologies: PHP, 
+JavaScript, MySQL, WordPress APIs. Completed 15+ projects for small businesses 
+and bloggers. Improved site performance and SEO for all clients.
+
+TECHNICAL SKILLS
+Frontend: React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, 
+          Tailwind CSS, Material-UI
+Backend: Node.js, Express, Python, Flask, FastAPI, REST APIs, GraphQL
+Databases: PostgreSQL, MongoDB, MySQL, Firebase
+Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, CI/CD, GitHub Actions
+Tools: Git, VS Code, Postman, Figma, WordPress, Stripe API, Twilio API
+
+EDUCATION
+San Francisco State University | Bachelor of Science in Computer Science
+San Francisco, CA | Graduated: May 2019 | GPA: 3.5/4.0
+
+CERTIFICATIONS
+• AWS Certified Developer - Associate (2023)
+• Google Analytics Certified (2022)
+
+LANGUAGES
+English (Native), Hindi (Conversational), Spanish (Basic)
