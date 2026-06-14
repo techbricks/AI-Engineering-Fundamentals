@@ -96,7 +96,8 @@
     "data/resumes/resume_003_executive.txt",
     "data/resumes/resume_004_career_changer.txt",
     "data/resumes/resume_005_freelancer.txt",
-    "other_files/images/git-command-1.png"
+    "other_files/images/git-command-1.png",
+    "other_files/images/git-command-2.png"
   ],
   "published_modules": [
     "module_01",
