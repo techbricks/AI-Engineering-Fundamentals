@@ -1,0 +1,106 @@
+═══════════════════════════════════════════════════════════════════════════════
+                              DAVID KIM
+═══════════════════════════════════════════════════════════════════════════════
+
+Email: david.kim@email.com                    Phone: (206) 555-0134
+Location: Seattle, WA                          LinkedIn: linkedin.com/in/davidkim
+GitHub: github.com/davidkim                   Portfolio: davidkim.dev
+
+═══════════════════════════════════════════════════════════════════════════════
+PROFESSIONAL SUMMARY
+═══════════════════════════════════════════════════════════════════════════════
+
+Transitioning from 7 years in finance to software engineering, bringing 
+analytical thinking, data-driven decision making, and project management skills. 
+Completed intensive coding bootcamp and built portfolio of full-stack projects. 
+Seeking software engineering role to apply technical skills and business acumen.
+
+═══════════════════════════════════════════════════════════════════════════════
+TECHNICAL EXPERIENCE
+═══════════════════════════════════════════════════════════════════════════════
+
+Full-Stack Developer | Personal Projects
+Seattle, WA | January 2023 - Present
+
+• Built 5+ full-stack web applications using React, Node.js, Python, and 
+  PostgreSQL
+• Implemented RESTful APIs, user authentication, and database design
+• Deployed applications using AWS (EC2, S3, RDS) and Docker
+• GitHub: github.com/davidkim (15+ repositories, 200+ contributions)
+
+Key Projects:
+• Financial Dashboard App: Real-time stock tracking with data visualization 
+  using React and Python Flask backend
+• Task Management System: Collaborative project management tool with real-time 
+  updates using WebSockets
+• E-Commerce Platform: Full-featured online store with payment integration 
+  using Stripe API
+
+───────────────────────────────────────────────────────────────────────────────
+
+Software Engineering Bootcamp | TechBootcamp Academy
+Seattle, WA | September 2022 - March 2023
+
+• Intensive 6-month program covering full-stack web development
+• Technologies: JavaScript, Python, React, Node.js, SQL, MongoDB, Git
+• Completed 20+ projects including capstone project (team of 4)
+• Graduated with honors (top 10% of cohort)
+
+═══════════════════════════════════════════════════════════════════════════════
+PROFESSIONAL EXPERIENCE (PRE-TRANSITION)
+═══════════════════════════════════════════════════════════════════════════════
+
+Financial Analyst → Senior Financial Analyst | Global Finance Corp.
+Seattle, WA | June 2016 - August 2022
+
+• Analyzed financial data and built predictive models using Excel, SQL, and 
+  Python to support strategic decision-making
+• Automated reporting processes using Python scripts, reducing manual work by 
+  15 hours per week
+• Collaborated with cross-functional teams including engineering, product, and 
+  operations
+• Managed multiple projects simultaneously, consistently meeting deadlines
+• Achievements:
+  - Developed financial forecasting model improving accuracy by 25%
+  - Led process improvement initiative saving $500K annually
+  - Mentored 3 junior analysts on financial analysis and data modeling
+
+═══════════════════════════════════════════════════════════════════════════════
+EDUCATION
+═══════════════════════════════════════════════════════════════════════════════
+
+Bachelor of Science in Business Administration - Finance
+University of Washington
+Seattle, WA | Graduated: May 2016
+GPA: 3.6/4.0
+
+Relevant Coursework: Statistics, Data Analysis, Financial Modeling, 
+                      Business Analytics
+
+═══════════════════════════════════════════════════════════════════════════════
+TECHNICAL SKILLS
+═══════════════════════════════════════════════════════════════════════════════
+
+Programming Languages: JavaScript, Python, SQL, HTML/CSS
+Frameworks & Libraries: React, Node.js, Express, Flask, Django
+Databases: PostgreSQL, MongoDB, MySQL
+Tools: Git, Docker, AWS (EC2, S3, RDS), VS Code, Postman
+Other: REST APIs, Agile/Scrum, Data Analysis, Financial Modeling
+
+═══════════════════════════════════════════════════════════════════════════════
+TRANSFERABLE SKILLS
+═══════════════════════════════════════════════════════════════════════════════
+
+• Strong analytical and problem-solving abilities from financial analysis background
+• Experience with data modeling, statistical analysis, and quantitative reasoning
+• Project management skills: planning, execution, stakeholder communication
+• Cross-functional collaboration experience working with technical teams
+• Attention to detail and quality assurance mindset
+
+═══════════════════════════════════════════════════════════════════════════════
+LANGUAGES
+═══════════════════════════════════════════════════════════════════════════════
+
+English (Native), Korean (Conversational)
+═══════════════════════════════════════════════════════════════════════════════
+
