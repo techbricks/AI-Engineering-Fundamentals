@@ -1,0 +1,19 @@
+# Auto-generated requirements.txt
+# Run: pip install -r requirements.txt
+# Or with uv: uv pip install -r requirements.txt
+
+# Core dependencies
+IPython
+anthropic
+matplotlib
+numpy
+openai
+python-dotenv
+requests
+seaborn
+tiktoken
+torch
+
+# Notebook support
+jupyter
+ipykernel
